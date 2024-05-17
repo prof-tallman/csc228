@@ -2,17 +2,18 @@
 A collection of possible texts to use for the course. This is a general education course and so there should be few, if any, actual textbooks and the level of technical detail should be minimal. Classic texts are the best choice.
 
 ## Texts ##
-The Code Book by Simon Singh
-Beyond Fear by Bruce Schneier
-Silver Blaze by Sir Arthor Conan Doyle
+* The Code Book by Simon Singh
+* Beyond Fear by Bruce Schneier
+* Silver Blaze by Sir Arthor Conan Doyle
+* Computing Machinery and Intelligence (https://academic.oup.com/mind/article/LIX/236/433/986238)
 
 ### Under Consideration ###
-1984 by George Orwell (200-300 pages)
-Brave New World by Aldous Huxley (200-300 pages)
-Frankenstein by Mary Shelley (200-300 pages)
-Meditations by Marcus Aurelius (100-200 pages)
-The Art of War by Sun Tzu (50-100 pages)
-The Great Train Robbery by Michael Crichteon (300-400 pages)
+* 1984 by George Orwell (200-300 pages)
+* Brave New World by Aldous Huxley (200-300 pages)
+* Frankenstein by Mary Shelley (200-300 pages)
+* Meditations by Marcus Aurelius (100-200 pages)
+* The Art of War by Sun Tzu (50-100 pages)
+* The Great Train Robbery by Michael Crichteon (300-400 pages)
 
 ## Movies ##
 * The Imitation Game starring Benedict Cumberpatch (2014)
