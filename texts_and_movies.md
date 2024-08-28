@@ -13,6 +13,7 @@ A collection of possible texts to use for the course. This is a general educatio
 * Frankenstein by Mary Shelley (200-300 pages)
 * Meditations by Marcus Aurelius (100-200 pages)
 * The Art of War by Sun Tzu (50-100 pages)
+* The Hiding Place by Corrie ten Boom
 * The Great Train Robbery by Michael Crichteon (300-400 pages)
 
 ## Movies ##
