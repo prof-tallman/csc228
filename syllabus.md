@@ -1,19 +1,25 @@
 # Technology, Security, and Fear
-This is a proposal for a new Concordia Q&I course within the "How Shall I Live?" category.
+This is a proposal for a new 200-level Concordia Q&I course within the "How Shall I Live?" category.
 
 ## Course Description
 This course explores the question “How Shall I Live?” in respect to modern technology, cyber security, and human fears. It will introduce students to information security and internet technology at the popular level. Students will examine how these capabilities have historically influenced the outcome of wars and impacted everyday life. They will peer into the hacker's mindset and consider how a cyber detective would investigate cyber incidents. Students will analyze the difference between effective security and security theater--policies that provide nothing more than superficial comfort. Students will evaluate the benefit and cost of security at the individual and societal level. The goal of this course is to cultivate students’ understanding of technology, security, and fear so they can be a wise, honorable, and informed influence on modern day security practices and policies.
 
+## Program Learning Outcomes
+1. Create, implement, and evaluate software systems that meet specified design and performance requirements.
+2. Apply algorithmic, mathematical, and scientific reasoning to a variety of complex computing problems.
+3. Analyze, articulate, and apply scholarly resources to integrate computer science theory, software development fundamentals, and best practices in the discipline of computer science.
+4. Cultivate the Christian teaching of vocations to make wise, informed judgments and practice ethical, honorable decision making in computer science.
+5. Demonstrate effective written and oral communication skills in computer science.
+6. Function effectively as a gracious and helpful member or leader of a team.
+
 ## Course Learning Outcomes
-1. Students will understand early cryptographic algorithms and investigate how the breaking of various ciphers influenced world history. They will analyze weaknesses in early algorithms and apply cryptanalysis software to find the secret messages without access to the encryption key.
-2. Students will evaluate the shortcomings of early cryptographic algorithms and explain the improvements
-of modern algorithms like DES and AES. They will understand fundamental cryptographic operations on
-binary data and implement modern symmetric algorithms such as 3DES and AES.
-3. Psychological aspects of fear.
-4. Evaluate public security policies and analyze the differences between a perception of security and the true 
-5. Students will evaluate real-world risks and assess the effectiveness and cost of countermeasures. They
-will analyze the technical security in addition to the societal inconvenience and limitations (PLO #1, 2, 3)
-4. Students will apply the Biblical ideas of God’s grace, providence, and eternal security to the threats and fears from the information age.
+1. Students will understand historic cryptographic algorithms and investigate how the cracking of various ciphers influenced world history. They will analyze weaknesses in these early algorithms and apply cryptanalysis software to find the secret messages without access to the encryption key (PLO# 2,3).
+2. Students will study the psychological characteristics of fear to explain how human emotions influence our response to dangerous situations and our ability to distinguish between perception and reality (PLO# 4).
+3. Students will describe the hackers methodology and cyber kill chain so that they can evaluate threats and propose mitigations against them (PLO #2,3,5,6).
+4. Students will apply the shortcomings of early cryptographic algorithms to understand the improvements of modern technologies like digital certificates, certificate authorities, and the TLS/SSL security protocols (PLO #2,3,5,6).
+5. Students will evaluate current technological risks and assess the effectiveness and cost of countermeasures. They
+will analyze the technical security in addition to resulting societal inconvenience (PLO #2,3,4,5).
+4. Students will apply the Biblical ideas of God’s grace, providence, and eternal security to the threats and fears of the information age (PLO# 3,4,5).
 
 ## Course Materials
 
@@ -91,7 +97,7 @@ Homework will be assigned after every class and will be due at the beginning of 
 * **Security Theater Scripts**: Create a short play that demonstrates how to exploit or protect against either Man-in-the-Middle or Phishing Email vulnerabilties. Students will trade plays with each other and "act" them out for the class.
 
 ### Major Assignment
-Research a modern security vulnerability and propose a set of countermeasures to protect against its exploitation. The emphasis of this paper will be to provide a popular-level description of the technology and vulnerability, to describe how it has been used to exploit computer systems, and to research possible countermeasures. The paper is worth 200 points.
+Research a modern security vulnerability and propose a set of countermeasures to protect against its exploitation. The emphasis of this paper will be to provide a popular-level description of the technology and vulnerability, to describe how it has been used to exploit computer systems, and to research possible countermeasures. The paper will be due in stages, beginning with an outline and finishing and including a visit to the writing studio. The finished paper is worth 200 points.
 
 ## Tests and Quizzes
 
