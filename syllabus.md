@@ -1,8 +1,8 @@
 # Technology, Security, and Fear
-This is a proposal for a new 200-level Concordia Q&I course within the "How Shall I Live?" category.
+This is a proposal for a new 200-level Concordia Q&I "How Shall I Live?" course.
 
 ## Course Description
-This course explores the question “How Shall I Live?” in respect to modern technology, cyber security, and human fears. It will introduce students to information security and internet technology at the popular level. Students will examine how these capabilities have historically influenced the outcome of wars and impacted everyday life. They will peer into the hacker's mindset and consider how a cyber detective would investigate cyber incidents. Students will analyze the difference between effective security and security theater--policies that provide nothing more than superficial comfort. Students will evaluate the benefit and cost of security at the individual and societal level. The goal of this course is to cultivate students’ understanding of technology, security, and fear so they can be a wise, honorable, and informed influence on modern day security practices and policies.
+This course explores the question "How Shall I Live?" in respect to modern technology, cyber security, and human fears. It will introduce students to information security and internet technology at the popular level. Students will examine how these capabilities have historically influenced the outcome of wars and impacted everyday life. They will peer into the hacker's mindset and consider how a cyber detective would investigate cyber incidents. Students will analyze the difference between effective security and security theater--policies that provide nothing more than superficial comfort. Students will evaluate the benefit and cost of security at the individual and societal level. The goal of this course is to cultivate students’ understanding of technology, security, and fear so they can be a wise, honorable, and informed influence on modern day security practices and policies.
 
 ## Program Learning Outcomes
 1. Create, implement, and evaluate software systems that meet specified design and performance requirements.
@@ -23,19 +23,19 @@ will analyze the technical security in addition to resulting societal inconvenie
 
 ## Course Materials
 
+### Books
+A variety of texts will be used for the course. Students are expected to obtain a copy from the campus bookstore or similar source.
+ * Assorted Sherlock Holmes Stories by Sir Arther Conan Doyle (free electronic copies)
+ * *The Code Book* by Simon Singh (partial reading)
+ * *Frankenstein* by Mary Shelley
+ * *The Hiding Place* by Corrie Ten Boom
+ * *Security and Fear* by Bruce Schneier (partial reading)
+
 ### Movie
 Over the course of the semester you will be required to watch several movies. These movies will be shown mid-week on select days throughout the semester. Students who are unable to attend the movie night are responsible for viewing the movie.
  * The Imitation Game (2014) starring Benedict Cumberpatch
  * The Net (1995) starring Sandra Bullock
  * Hackers (1995) starring Angelina Jolie
-
-### Books
-A variety of texts will be used for the course. Students are expected to obtain a copy from the campus bookstore or similar such source.
- * Assorted Sherlock Holmes Stories by Sir Arther Conan Doyle (electronic copies available for free)
- * *The Code Book* by Simon Singh (partial reading)
- * *Frankenstein* by Mary Shelley
- * *The Hiding Place* by Corrie Ten Boom
- * *Security and Fear* by Bruce Schneier (partial reading)
 
 ## Course Structure
 
@@ -73,14 +73,14 @@ A variety of texts will be used for the course. Students are expected to obtain 
 ## Assignments
 
 ### Homework Assignments
-Homework will be assigned after every class and will be due at the beginning of the next class period. Most homework assignments will be worth 10 points each, for a total of roughly 300 points.
+Homework will be assigned after every class to be due at the beginning of the next class period. Most homework assignments will be worth 10 points each, totaling roughly 300 points.
 
 * **Cryptanalysis Assignments**: Crack a series of "intercepted" secret messages that were encrypted with several historic cryptographic algorithms. Students are encouraged
  to use software tools from class but in addition to these computer programs, every puzzle will require critical thinking and puzzle solving skills.
 
 * **Homework Worksheets**: Complete worksheets that help students to discover and reinforce technical concepts related to the internet and cyber security.
 
-* **Thank You Letter**: Write a thank you letter to the guest lecture that describes three important things the student learned and expresses appreciation for the guest's time and effort. Each letter should be between one or two pages in length. The instructor will deliver the letters to the guest.
+* **Thank You Letter**: Write a thank you letter to the guest lecture that describes three important things the student learned and expresses appreciation for the guest's time and effort. Each letter should be between one or two pages in length.
 
 * **Security Karaoke**: Find a song that describes or contemplates themes from the course: technology, security, anxiety, or fears. Explain how the song wrestles with these issues and why you wanted to share it with the class. You do not need to like the song or fully agree with its premise. You do not need to sing the song either ;)
 
@@ -88,9 +88,9 @@ Homework will be assigned after every class and will be due at the beginning of 
 
 * **Hacking Meme**: Find a meme or comic that is related to cyber security. Explain to the class what technical topic the picture is describing and why it is funny.
 
-* **Security Wish List**: Create a list of 3 or more security questions that you would like to know more about. The instructor will answer as many of the questions as possible during future class sessions.
+* **Security Wish List**: Create a list of 3 or more security questions that you would like to know more about. The instructor will answer as many as possible during future class sessions.
 
-* **PGP Encrypted Email**: Create a public-private key pair and install the open source version of Pretty Good Privacy (PGP) called Gnu Privacy Guard (GPG). Use the software to send and receive encrypted email.
+* **PGP Encrypted Email**: Create a public-private key pair and install the open source version of Pretty Good Privacy (PGP). Use the software to send/receive encrypted email.
 
 * **SSL/TLS Comics**: Create a comic strip that shows how the SSL/TLS protocol provides privacy, integrity, authentication, and non-repudiation for internet communications. The comic strip could involve funny cartoon characters, superheroes, or it could be more of a handdrawn series of diagrams meant for a technical audience.
 
@@ -102,10 +102,10 @@ Research a modern security vulnerability and propose a set of countermeasures to
 ## Tests and Quizzes
 
 ### Quizzes
-Each reading assignment will be followed by a short quiz that helps to emphasize and reinforce the main ideas. All quizzes are open book. Most quizzes will be worth 10 points each, for approximately 300 points.
+Reading assignment will be followed by a short, open book quiz that helps to emphasize and reinforce the main ideas. Most quizzes will be worth 10 points each, for approximately 300 points.
 
 ### Midterm Exam
-There is one midterm exam on the topic of historic cryptography. The exam will include a variety of questions that include solving puzzles and answering qualitative questions about cryptography. Students who complete all of the assignments properly should find the exam fairly straightfoward. The midterm is worth 100 points.
+There is one midterm exam on the topic of historic cryptography. It includes a variety of questions that like solving puzzles and answering questions about cryptography. Students who complete all of their assignments properly should find the exam straightfoward. The test is worth 100 points.
 
 ### Final Exam
-The final exam will include all topics covered after the midterm exam. Test questions will require students to understand the psychology of fear, basic Biblical concepts about fear and anxiety, and the fundamental concepts of internet security. Students will analyze security situations to identify vulnerabilities and evaluate potential countermeasures. Students who have completed their homework assignments should not be surprised by any topics contained on the test. The final is worth 150 points.
+The final exam will include all topics covered after the midterm exam. Questions will require students to understand the psychology of fear, basic Biblical concepts about anxiety, and basic internet security concepts. Students will analyze security situations to identify vulnerabilities and evaluate countermeasures. Students who have completed their homework assignments should not be surprised by any topics on the test. The final is worth 150 points.
