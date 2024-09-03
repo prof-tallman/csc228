@@ -2,7 +2,7 @@
 This is a proposal for a new 200-level Concordia Q&I "How Shall I Live?" course.
 
 ## Course Description
-This course explores the question "How Shall I Live?" in respect to modern technology, cyber security, and human fears. It will introduce students to information security and internet technology at the popular level. Students will examine how these capabilities have historically influenced the outcome of wars and impacted everyday life. They will peer into the hacker's mindset and consider how a cyber detective would investigate cyber incidents. Students will analyze the difference between effective security and security theater--policies that provide nothing more than superficial comfort. Students will evaluate the benefit and cost of security at the individual and societal level. The goal of this course is to cultivate students’ understanding of technology, security, and fear so they can be a wise, honorable, and informed influence on modern day security practices and policies.
+This course explores the question "How Shall I Live?" in respect to modern technology, cyber security, and human fears. It will introduce students to information security and internet technology at the popular level. Students will examine how these capabilities have historically influenced the outcome of wars and impacted everyday life. They will peer into the hacker's mindset and consider how a cyber detective would investigate cyber incidents. Students will analyze the difference between effective security and security theater--policies that provide nothing more than superficial comfort. Students will evaluate the benefit and cost of security at the individual and societal level. The goal of this course is to cultivate students' understanding of technology, security, and fear so they can have a wise and honorable influence on modern day security practices and policies.
 
 ## Program Learning Outcomes
 1. Create, implement, and evaluate software systems that meet specified design and performance requirements.
@@ -16,10 +16,10 @@ This course explores the question "How Shall I Live?" in respect to modern techn
 1. Students will understand historic cryptographic algorithms and investigate how the cracking of various ciphers influenced world history. They will analyze weaknesses in these early algorithms and apply cryptanalysis software to find the secret messages without access to the encryption key (PLO# 2,3).
 2. Students will study the psychological characteristics of fear to explain how human emotions influence our response to dangerous situations and our ability to distinguish between perception and reality (PLO# 4).
 3. Students will describe the hackers methodology and cyber kill chain so that they can evaluate threats and propose mitigations against them (PLO #2,3,5,6).
-4. Students will apply the shortcomings of early cryptographic algorithms to understand the improvements of modern technologies like digital certificates, certificate authorities, and the TLS/SSL security protocols (PLO #2,3,5,6).
-5. Students will evaluate current technological risks and assess the effectiveness and cost of countermeasures. They
-will analyze the technical security in addition to resulting societal inconvenience (PLO #2,3,4,5).
-4. Students will apply the Biblical ideas of God’s grace, providence, and eternal security to the threats and fears of the information age (PLO# 3,4,5).
+4. Students will comprehend the basic infrastructure and protocols underlying the internet so that they can tell their friends and family how this technology works (PLO #2,5).
+5. Students will apply the shortcomings of early cryptographic algorithms to understand the improvements of modern technologies like digital certificates, certificate authorities, and the TLS/SSL security protocols (PLO #2,3,5,6).
+6. Students will evaluate current technological risks and assess the effectiveness and cost of countermeasures. They will analyze the technical security in addition to resulting societal inconvenience (PLO #2,3,4,5).
+7. Students will apply the Biblical ideas of God’s grace, providence, and eternal security to the threats and fears of the information age (PLO# 3,4,5).
 
 ## Course Materials
 
@@ -29,11 +29,11 @@ A variety of texts will be used for the course. Students are expected to obtain 
  * *The Code Book* by Simon Singh (partial reading)
  * *Frankenstein* by Mary Shelley
  * *The Hiding Place* by Corrie Ten Boom
- * *Security and Fear* by Bruce Schneier (partial reading)
+ * *Beyond Fear* by Bruce Schneier (partial reading)
 
 ### Movie
-Over the course of the semester you will be required to watch several movies. These movies will be shown mid-week on select days throughout the semester. Students who are unable to attend the movie night are responsible for viewing the movie.
- * The Imitation Game (2014) starring Benedict Cumberpatch
+Over the course of the semester students will be required to watch several movies. These movies will be shown mid-week on select days throughout the semester. Students who are unable to attend movie night are responsible for viewing it on their own.
+ * The Imitation Game (2014) starring Benedict Cumberbatch
  * The Net (1995) starring Sandra Bullock
  * Hackers (1995) starring Angelina Jolie
 
@@ -82,22 +82,22 @@ Homework will be assigned after every class to be due at the beginning of the ne
 
 * **Thank You Letter**: Write a thank you letter to the guest lecture that describes three important things the student learned and expresses appreciation for the guest's time and effort. Each letter should be between one or two pages in length.
 
-* **Security Karaoke**: Find a song that describes or contemplates themes from the course: technology, security, anxiety, or fears. Explain how the song wrestles with these issues and why you wanted to share it with the class. You do not need to like the song or fully agree with its premise. You do not need to sing the song either ;)
+* **Security Karaoke**: Find a song that describes or contemplates themes from the course: technology, security, anxiety, or fears. Explain how the song wrestles with these issues. No singing required... although that would be a very scary experience ;)
 
 * **Heroes of Faith**: Research a Biblical hero and evaluate whatever fearful situation they encountered. Describe the person's response to fear, God's response to the situation, and the outcome. Compare to modern scenarios.
 
 * **Hacking Meme**: Find a meme or comic that is related to cyber security. Explain to the class what technical topic the picture is describing and why it is funny.
 
-* **Security Wish List**: Create a list of 3 or more security questions that you would like to know more about. The instructor will answer as many as possible during future class sessions.
+* **Security Wish List**: Create a list of three interesting security questions for the class to learn about. The instructor will cover as many topics as possible.
 
 * **PGP Encrypted Email**: Create a public-private key pair and install the open source version of Pretty Good Privacy (PGP). Use the software to send/receive encrypted email.
 
 * **SSL/TLS Comics**: Create a comic strip that shows how the SSL/TLS protocol provides privacy, integrity, authentication, and non-repudiation for internet communications. The comic strip could involve funny cartoon characters, superheroes, or it could be more of a handdrawn series of diagrams meant for a technical audience.
 
-* **Security Theater Scripts**: Create a short play that demonstrates how to exploit or protect against either Man-in-the-Middle or Phishing Email vulnerabilties. Students will trade plays with each other and "act" them out for the class.
+* **Security Theater Scripts**: Create a short play that demonstrates how to exploit or protect against Man-in-the-Middle or Phishing Email attacks. Students will trade plays with each other and "act" them out for the class.
 
 ### Major Assignment
-Research a modern security vulnerability and propose a set of countermeasures to protect against its exploitation. The emphasis of this paper will be to provide a popular-level description of the technology and vulnerability, to describe how it has been used to exploit computer systems, and to research possible countermeasures. The paper will be due in stages, beginning with an outline and finishing and including a visit to the writing studio. The finished paper is worth 200 points.
+Research a modern security vulnerability and propose a set of countermeasures to protect against its exploitation. The emphasis of this paper will be to provide a popular-level description of the technology and vulnerability, to describe how it has been used to exploit computer systems, and to evaluate possible countermeasures. The paper will be due in stages, beginning with an outline and including a visit to the writing studio. The finished paper is worth 200 points.
 
 ## Tests and Quizzes
 
@@ -108,4 +108,4 @@ Reading assignment will be followed by a short, open book quiz that helps to emp
 There is one midterm exam on the topic of historic cryptography. It includes a variety of questions that like solving puzzles and answering questions about cryptography. Students who complete all of their assignments properly should find the exam straightfoward. The test is worth 100 points.
 
 ### Final Exam
-The final exam will include all topics covered after the midterm exam. Questions will require students to understand the psychology of fear, basic Biblical concepts about anxiety, and basic internet security concepts. Students will analyze security situations to identify vulnerabilities and evaluate countermeasures. Students who have completed their homework assignments should not be surprised by any topics on the test. The final is worth 150 points.
+The final exam will include all topics covered after the midterm exam. Questions will require students to understand the psychology of fear, basic Biblical concepts about anxiety, and basic internet security concepts. Students will analyze security situations to identify vulnerabilities and evaluate countermeasures. Students who have completed their homework assignments should not be surprised by any topics on the test. The final is worth 100 points.
