@@ -65,7 +65,7 @@ Over the course of the semester, students will be required to watch several movi
 ### Part 4: Internet Security
 |Week#|Topics|Assignments|
 |-----|------|-----------|
-|11|**How the Internet Works**<br>- Internet Infrastructure<br>- Internet Protocols|Reading: *Beyond Fear* ch 4<br>Reading: *The Code Book* ch 6<br>Homework Worksheets|
+|11|**How the Internet Works**<br>- Internet Infrastructure<br>- Internet Protocols|Movie: *The Net* (1995)<br>Reading: *Beyond Fear* ch 4<br>Reading: *The Code Book* ch 6<br>Homework Worksheets|
 |12|**Modern Cryptography**<br>- AES and RSA<br>- Digital Certificates|Reading: *Beyond Fear* ch 5<br>*The Hiding Place* chs 10-11<br>PGP Encrypted Email|
 |13|**Protecting the Internet**<br>- Certificate Authorities<br>- SSL/TLS Stack|Reading: *Beyond Fear* ch 6<br>*The Hiding Place* chs 12-13<br>SSL/TLS Comic|
 |14|**Security Breaches**<br>- Phishing Attacks<br>- Man in the Middle|Reading: *Beyond Fear* ch 7<br>*The Hiding Place* chs 14-15<br>Security Theater Scripts|
