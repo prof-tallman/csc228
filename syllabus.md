@@ -2,7 +2,7 @@
 This proposal is for a new, three-unit, 200-level Concordia Q&I "How Shall I Live?" course.
 
 ## Course Description
-This course explores the question "How Shall I Live?" with respect to modern technology, cyber security, and human fear. It introduces students to internet technology at the conversational level without requiring any programming. Students will examine how these capabilities have influenced history and impacted everyday life. They will enjoy a variety of stories and films that peer into the hacker's mindset and consider how a cyber detective might investigate such incidents. Students will analyze the difference between effective security and "security theater" countermeasures that provide nothing more than superficial comfort. Students will evaluate the benefits and costs of security as it applies to society and the individual. The goal of this course is to cultivate students' understanding of technology, cybersecurity, and fear so they can have a wise and honorable influence on modern-day security policies.
+This course explores the question "How Shall I Live?" with respect to modern technology, cyber security, and human fear. It introduces students to internet technology at the conversational level without requiring any programming. Students will examine how these capabilities have influenced history and impacted everyday life. They will enjoy a variety of stories and films that peer into the hacker's mindset and consider how a cyber detective might investigate such incidents. Students will analyze the difference between effective security and "security theater" countermeasures that superficially comfort our fears without providing a significant security benefit. Students will evaluate the benefits and costs of security as it applies to society and the individual. The goal of this course is to cultivate students' understanding of technology, cybersecurity, and fear so they can have a wise and honorable influence on modern-day security policies.
 
 ## Course Learning Outcomes
 1. Students will understand historic cryptographic algorithms and investigate how the cracking of various ciphers influenced world history. They will analyze weaknesses in these early algorithms and apply cryptanalysis software to find the secret messages without access to the encryption key (PLO# 2,3).
@@ -25,7 +25,7 @@ Q&I students are unlikely to consider the Computer Science PLOs. These are inclu
 ## Course Materials
 
 ### Books
-A variety of texts will be used for the course. Students are expected to obtain a copy from the campus bookstore or similar source.
+A variety of texts will be used for the course.
  * Assorted Sherlock Holmes stories by Sir Arthur Conan Doyle (free electronic copies)
  * *The Code Book* by Simon Singh (partial reading)
  * *The Hiding Place* by Corrie Ten Boom
@@ -77,36 +77,36 @@ Over the course of the semester, students will be required to watch several movi
 Homework will be assigned after every class to be due at the beginning of the next class period. Most homework assignments will be worth 10 points each, totaling roughly 300 points.
 
 * **Cryptanalysis Assignments**: Crack a series of "intercepted" secret messages that were encrypted with several historic cryptographic algorithms. Students are encouraged
- to use software tools from class but in addition to these computer programs, every puzzle will require critical thinking and puzzle solving skills.
+ to use software tools from class, but in addition to these computer programs, every puzzle will require critical thinking and puzzle-solving skills.
 
-* **Homework Worksheets**: Complete worksheets that help students to discover and reinforce technical concepts related to the internet and cyber security.
+* **Homework Worksheets**: Complete worksheets that help students discover and reinforce technical concepts related to the internet and cyber security.
 
-* **Thank You Letter**: Write a thank you letter to the guest lecture that describes three important things the student learned and expresses appreciation for the guest's time and effort. Each letter should be between one or two pages in length.
+* **Thank You Letter**: Write a thank you letter to the guest lecturer that describes three important things the student learned and expresses appreciation for the guest's time and effort. Each letter should be between one and two pages in length.
 
-* **Security Karaoke**: Find a song that describes or contemplates themes from the course: technology, security, anxiety, or fears. Explain how the song wrestles with these issues. No singing required... although that would be a very scary experience ;)
+* **Security Karaoke**: Find a song that describes or contemplates themes from the course: technology, security, anxiety, or fears. Explain how the song wrestles with these issues. No singing is required... although that would be a very scary experience ;)
 
 * **Heroes of Faith**: Research a Biblical hero and evaluate whatever fearful situation they encountered. Describe the person's response to fear, God's response to the situation, and the outcome. Compare to modern scenarios.
 
-* **Hacking Meme**: Find a meme or comic that is related to cyber security. Explain to the class what technical topic the picture is describing and why it is funny.
+* **Hacking Meme**: Find a meme or comic that is related to cyber security. Explain to the class what technical topic the picture describes and why it is funny.
 
 * **Security Wish List**: Create a list of three interesting security questions for the class to learn about. The instructor will cover as many topics as possible.
 
-* **PGP Encrypted Email**: Create a public-private key pair and install the open source version of Pretty Good Privacy (PGP). Use the software to send/receive encrypted email.
+* **PGP Encrypted Email**: Create a public-private key pair and install the open-source version of Pretty Good Privacy (PGP). Use the software to send/receive encrypted emails.
 
-* **SSL/TLS Comics**: Create a comic strip that shows how the SSL/TLS protocol provides privacy, integrity, authentication, and non-repudiation for internet communications. The comic strip could involve funny cartoon characters, superheroes, or it could be more of a handdrawn series of diagrams meant for a technical audience.
+* **SSL/TLS Comics**: Create a comic strip that shows how the SSL/TLS protocol provides privacy, integrity, authentication, and non-repudiation for internet communications. The comic strip could involve funny cartoon characters or superheroes, or it could be more of a hand-drawn series of diagrams meant for a technical audience.
 
-* **Security Theater Scripts**: Create a short play that demonstrates how to exploit or protect against Man-in-the-Middle or Phishing Email attacks. Students will trade plays with each other and "act" them out for the class.
+* **Security Theater Scripts**: Create a short play demonstrating how to exploit or protect against Man-in-the-Middle or Phishing Email attacks. Students will trade plays with each other and "act" them out for the class.
 
 ### Major Assignment
-Research a modern security vulnerability and propose a set of countermeasures to protect against its exploitation. The emphasis of this paper will be to provide a popular-level description of the technology and vulnerability, to describe how it has been used to exploit computer systems, and to evaluate possible countermeasures. The paper will be due in stages, beginning with an outline and including a visit to the writing studio. The finished paper is worth 200 points.
+Research a modern security vulnerability and propose a set of countermeasures to protect against its exploitation. The emphasis of this paper will be to provide a popular-level description of the technology and vulnerability, to describe how it has been used to exploit computer systems and to evaluate possible countermeasures. The paper will be due in stages, beginning with an outline and including a visit to the writing studio. The finished paper is worth 200 points.
 
 ## Tests and Quizzes
 
 ### Quizzes
-Reading assignment will be followed by a short, open book quiz that helps to emphasize and reinforce the main ideas. Most quizzes will be worth 10 points each, for approximately 300 points.
+Each reading assignment will be followed by a short, open-book quiz that helps to emphasize and reinforce the main ideas. Most quizzes will be worth 10 points each, for approximately 300 points.
 
 ### Midterm Exam
-There is one midterm exam on the topic of historic cryptography. It includes a variety of questions that like solving puzzles and answering questions about cryptography. Students who complete all of their assignments properly should find the exam straightfoward. The test is worth 100 points.
+There is one midterm exam on the topic of historic cryptography. It includes various questions, like solving puzzles and answering questions about cryptography. Students who complete all of their assignments properly should find the exam straightforward. The test is worth 100 points.
 
 ### Final Exam
 The final exam will include all topics covered after the midterm exam. Questions will require students to understand the psychology of fear, basic Biblical concepts about anxiety, and basic internet security concepts. Students will analyze security situations to identify vulnerabilities and evaluate countermeasures. Students who have completed their homework assignments should not be surprised by any topics on the test. The final is worth 100 points.
