@@ -1,74 +1,75 @@
 # Technology, Security, and Fear
-This is a proposal for a new 200-level Concordia Q&I "How Shall I Live?" course.
+This proposal is for a new, three-unit, 200-level Concordia Q&I "How Shall I Live?" course.
 
 ## Course Description
-This course explores the question "How Shall I Live?" in respect to modern technology, cyber security, and human fears. It will introduce students to information security and internet technology at the popular level. Students will examine how these capabilities have historically influenced the outcome of wars and impacted everyday life. They will peer into the hacker's mindset and consider how a cyber detective would investigate cyber incidents. Students will analyze the difference between effective security and security theater--policies that provide nothing more than superficial comfort. Students will evaluate the benefit and cost of security at the individual and societal level. The goal of this course is to cultivate students' understanding of technology, security, and fear so they can have a wise and honorable influence on modern day security practices and policies.
-
-## Program Learning Outcomes
-1. Create, implement, and evaluate software systems that meet specified design and performance requirements.
-2. Apply algorithmic, mathematical, and scientific reasoning to a variety of complex computing problems.
-3. Analyze, articulate, and apply scholarly resources to integrate computer science theory, software development fundamentals, and best practices in the discipline of computer science.
-4. Cultivate the Christian teaching of vocations to make wise, informed judgments and practice ethical, honorable decision making in computer science.
-5. Demonstrate effective written and oral communication skills in computer science.
-6. Function effectively as a gracious and helpful member or leader of a team.
+This course explores the question "How Shall I Live?" with respect to modern technology, cyber security, and human fear. It introduces students to internet technology at the conversational level without requiring any programming. Students will examine how these capabilities have influenced history and impacted everyday life. They will enjoy a variety of stories and films that peer into the hacker's mindset and consider how a cyber detective might investigate such incidents. Students will analyze the difference between effective security and "security theater" countermeasures that provide nothing more than superficial comfort. Students will evaluate the benefits and costs of security as it applies to society and the individual. The goal of this course is to cultivate students' understanding of technology, cybersecurity, and fear so they can have a wise and honorable influence on modern-day security policies.
 
 ## Course Learning Outcomes
 1. Students will understand historic cryptographic algorithms and investigate how the cracking of various ciphers influenced world history. They will analyze weaknesses in these early algorithms and apply cryptanalysis software to find the secret messages without access to the encryption key (PLO# 2,3).
 2. Students will study the psychological characteristics of fear to explain how human emotions influence our response to dangerous situations and our ability to distinguish between perception and reality (PLO# 4).
-3. Students will describe the hackers methodology and cyber kill chain so that they can evaluate threats and propose mitigations against them (PLO #2,3,5,6).
-4. Students will comprehend the basic infrastructure and protocols underlying the internet so that they can tell their friends and family how this technology works (PLO #2,5).
+3. Students will describe the hacker's methodology and cyber kill chain to evaluate threats and propose mitigations against them (PLO #2,3,5,6).
+4. Students will comprehend the internet's basic infrastructure and protocols to explain how this technology works to their friends and family (PLO #2,5).
 5. Students will apply the shortcomings of early cryptographic algorithms to understand the improvements of modern technologies like digital certificates, certificate authorities, and the TLS/SSL security protocols (PLO #2,3,5,6).
-6. Students will evaluate current technological risks and assess the effectiveness and cost of countermeasures. They will analyze the technical security in addition to resulting societal inconvenience (PLO #2,3,4,5).
+6. Students will evaluate current technological risks against the effectiveness and cost of countermeasures (PLO #2,3,4,5).
 7. Students will apply the Biblical ideas of God’s grace, providence, and eternal security to the threats and fears of the information age (PLO# 3,4,5).
+
+## Program Learning Outcomes
+Q&I students are unlikely to consider the Computer Science PLOs. These are included for reference only.
+1. Create, implement, and evaluate software systems that meet specified design and performance requirements.
+2. Apply algorithmic, mathematical, and scientific reasoning to a variety of complex computing problems.
+3. Analyze, articulate, and apply scholarly resources to integrate computer science theory, software development fundamentals, and best practices in the discipline of computer science.
+4. Cultivate the Christian teaching of vocations to make wise, informed judgments and practice ethical, honorable decision-making in computer science.
+5. Demonstrate effective written and oral communication skills in computer science.
+6. Function effectively as a gracious and helpful member or leader of a team.
 
 ## Course Materials
 
 ### Books
 A variety of texts will be used for the course. Students are expected to obtain a copy from the campus bookstore or similar source.
- * Assorted Sherlock Holmes Stories by Sir Arther Conan Doyle (free electronic copies)
+ * Assorted Sherlock Holmes stories by Sir Arthur Conan Doyle (free electronic copies)
  * *The Code Book* by Simon Singh (partial reading)
- * *Frankenstein* by Mary Shelley
  * *The Hiding Place* by Corrie Ten Boom
  * *Beyond Fear* by Bruce Schneier (partial reading)
 
-### Movie
-Over the course of the semester students will be required to watch several movies. These movies will be shown mid-week on select days throughout the semester. Students who are unable to attend movie night are responsible for viewing it on their own.
- * The Imitation Game (2014) starring Benedict Cumberbatch
- * The Net (1995) starring Sandra Bullock
- * Hackers (1995) starring Angelina Jolie
+### Movies
+Over the course of the semester, students will be required to watch several movies. These movies will be shown mid-week on select days throughout the semester. Students who cannot attend movie night are responsible for viewing it on their own.
+ * *The Imitation Game* (2014) starring Benedict Cumberbatch
+ * *The Net* (1995) starring Sandra Bullock
+ * *Hackers* (1995) starring Angelina Jolie
+ * *Frankenstein* Miniseries (2004) starring Donald Sutherland
 
 ## Course Structure
 
 ### Part 1: Historic Cryptography
 |Week#|Topics|Assignments|
 |-----|------|-----------|
-|1|**Course Introduction**<br>- Pillars of Information Security<br>- The Security Mindset|Reading: *Silver Blaze* (S. Holmes)<br>Reading: *The Redheaded League* (S. Holmes)<br>Reading: *The Code Book* ch 1<br>Class Discussion|
-|2|**Intro to Cryptography**<br>- Substitution and Transposition<br>- Frequency Analysis|Reading: *The Hiding Place* chs 1-3<br>Reading: *The Code Book* ch 2<br>Caesar Shift and Railfence Ciphers|
-|3|**Towards "Perfect" Security**<br>- The Vigenere Cipher<br>- One Time Pads|Reading: *The Hiding Place* chs 4-6<br>Reading: *The Code Book* ch 3<br>Medium Cryptanalysis Problems|
-|4|**The Cryptography of WWI and WWII**<br>- The Enigma Machine<br>- Cracking Enigma|Reading: *The Hiding Place* chs 7-9<br>Reading: *The Code Book* ch 4<br>Using an Enigma Simulator|
-|5|**Historic Cryptography Conclusion**<br>- Class Discussion<br>- Midterm Exam|Reading: *The Hiding Place* chs 10-12|
+|1|**Course Introduction**<br>- Pillars of Information Security<br>- The Security Mindset|Reading: *Silver Blaze* (S. Holmes)<br>Reading: *The Redheaded League* (S. Holmes)<br>Class Discussion|
+|2|**Intro to Cryptography**<br>- Substitution and Transposition<br>- Frequency Analysis|Reading: *The Code Book* ch 1<br>Caesar Shift and Railfence Ciphers|
+|3|**Towards "Perfect" Security**<br>- The Vigenere Cipher<br>- One Time Pads|Reading: *The Code Book* ch 2<br>Medium Cryptanalysis Problems|
+|4|**The Cryptography of WWI and WWII**<br>- The Enigma Machine<br>- Cracking Enigma|Movie: *The Imitation Game*<br>Reading: *The Code Book* ch 3<br>Using an Enigma Simulator|
+|5|**Historic Cryptography Conclusion**<br>- Class Discussion<br>- Midterm Exam|Reading: *The Code Book* ch 4|
 
 ### Part 2: The Psychology of Fear
 |Week#|Topics|Assignments|
 |-----|------|-----------|
-|6|**The Psychology of Fear**<br>- Psychologist Guest Lecture<br>- Class Discussion|Reading: *The Hiding Place* chs 13-16<br>Thank You Letter|
-|7|**Fear in the Bible**<br>- Theologian Guest Lecture<br>- Class Discussion|Reading: *Valley of Fear* (S. Holmes)<br>Reading: *Frankenstein* chs 1-3<br>Security Karaoke<br>Heroes of Faith|
+|6|**The Psychology of Fear**<br>- Psychologist Guest Lecture<br>- Class Discussion|Movie: *Frankenstien* Miniseries (2004)<br>Reading: *The Hiding Place* chs 1-2<br>Thank You Letter|
+|7|**Fear in the Bible**<br>- Theologian Guest Lecture<br>- Class Discussion|Reading: *Valley of Fear* (S. Holmes)<br>Reading: *The Hiding Place* chs 3-4<br>Security Karaoke<br>Heroes of Faith|
 
 ### Part 3: Computer Security
 |Week#|Topics|Assignments|
 |-----|------|-----------|
-|8|**Hacking Lifecycle**<br>- Hacking Stories<br>- Hacker Methodology|Reading: *Security and Fear* ch 1<br>*Frankenstein* chs 4-6<br>Hacking Meme|
-|9|**Vulnerabilities and Exploits**<br>- Cyber Kill Chain<br>- Defensive Countermeasures|Reading: *Security and Fear* ch 2<br>*Frankenstein* chs 7-9<br>Security Wish List|
-|10|**How It Works**<br>- Stump the Professor Q&A<br>- Security Paper Brainstorming|Reading: *Security and Fear* ch 3<br>*Frankenstein* chs 10-12<br>Final Paper Outline|
+|8|**Hacking Lifecycle**<br>- Hacking Stories<br>- Hacker Methodology|Movie: *Hackers* (1995)<br>Reading: *Beyond Fear* ch 1<br>*The Hiding Place* ch 5<br>Hacking Meme|
+|9|**Vulnerabilities and Exploits**<br>- Cyber Kill Chain<br>- Defensive Countermeasures|Reading: *Beyond Fear* ch 2<br>*The Hiding Place* chs 6-7<br>Security Wish List|
+|10|**How It Works**<br>- Stump the Professor Q&A<br>- Security Paper Brainstorming|Reading: *Beyond Fear* ch 3<br>*The Hiding Place* chs 8-9<br>Final Paper Outline|
 
 ### Part 4: Internet Security
 |Week#|Topics|Assignments|
 |-----|------|-----------|
-|11|**How the Internet Works**<br>- Internet Infrastructure<br>- Internet Protocols|Reading: *Security and Fear* ch 4<br>Reading: *The Code Book* ch 6<br>Homework Worksheets|
-|12|**Modern Cryptography**<br>- AES and RSA<br>- Digital Certificates|Reading: *Security and Fear* ch 5<br>*Frankenstein* chs 13-15<br>PGP Encrypted Email|
-|13|**Protecting the Internet**<br>- Certificate Authorities<br>- SSL/TLS Stack|Reading: *Security and Fear* ch 6<br>*Frankenstein* chs 16-18<br>SSL/TLS Comic|
-|14|**Security Breaches**<br>- Phishing Attacks<br>- Man in the Middle|Reading: *Security and Fear* ch 7<br>*Frankenstein* chs 19-21<br>Security Theater Scripts|
-|15|**Internet Security Conclusion**<br>- Bringing it All Together<br>- Class Discussion|Reading: *Security and Fear* ch 8<br>*Frankenstein* chs 22-24<br>Final Paper|
+|11|**How the Internet Works**<br>- Internet Infrastructure<br>- Internet Protocols|Reading: *Beyond Fear* ch 4<br>Reading: *The Code Book* ch 6<br>Homework Worksheets|
+|12|**Modern Cryptography**<br>- AES and RSA<br>- Digital Certificates|Reading: *Beyond Fear* ch 5<br>*The Hiding Place* chs 10-11<br>PGP Encrypted Email|
+|13|**Protecting the Internet**<br>- Certificate Authorities<br>- SSL/TLS Stack|Reading: *Beyond Fear* ch 6<br>*The Hiding Place* chs 12-13<br>SSL/TLS Comic|
+|14|**Security Breaches**<br>- Phishing Attacks<br>- Man in the Middle|Reading: *Beyond Fear* ch 7<br>*The Hiding Place* chs 14-15<br>Security Theater Scripts|
+|15|**Internet Security Conclusion**<br>- Bringing it All Together<br>- Class Discussion|Reading: *Beyond Fear* ch 8<br>*The Hiding Place* ch 16<br>Final Paper|
 
 ## Assignments
 
