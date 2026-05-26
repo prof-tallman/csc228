@@ -58,7 +58,7 @@ The section will finish with a midterm exam that should only be *moderately* cha
 1. **[THU]** The Unbreakable Cipher: One-Time Pads
    1. Homework Review: How did you crack the code?
    1. Review key terms: CT, PT, key, substitution, transposition, what is secret in a cipher?
-   1. The topic of OTP optional and can be skipped if the class is behind
+   1. The topic of OTP is optional and can be skipped if the class is behind
    1. OTP is Vigenere on steroids
    1. Emphasize the practical challenges of sharing long keys
    1. Where would the OTP be feasible? 
@@ -67,7 +67,7 @@ The section will finish with a midterm exam that should only be *moderately* cha
 1. **[TUE]** Cryptography and WWI and WWII
    1. Quiz on the book and Book Discussion: the most intersting part of book
    1. The Zimmerman Telegram
-   1. The Enigmas Machine
+   1. The Enigma Machine
    1. HW: Use an Enigma Simulator
    1. HW: Watch The Imitation Game
 
