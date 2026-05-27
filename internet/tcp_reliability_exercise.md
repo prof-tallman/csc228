@@ -1,5 +1,7 @@
 # TCP Reliability Exercise #
 
+## Background ##
+
 The TCP Reliability Exercise is an activity that allows students to discover how reliable delivery is maintained when packets arrive out of order, are dropped in transit, or must be retransmitted. Students will observe how sequence numbers and acknowledgement numbers allow the client and server to reconstruct a complete response despite unreliable network delivery.
 
 Each individual step in the exercise is relatively simple and straightforward. The difficulty is that students may pay such close attention to their individual roles that they lose sight of the larger learning objective. To guard against such losses, the remaining students should take notes, preparing a summary and explanation at the end.
