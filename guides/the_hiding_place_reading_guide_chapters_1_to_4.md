@@ -50,7 +50,7 @@ Main question to ponder: What did Corrie learn as a child that would help her fa
 
 ### 4. Security and Fear ###
 
-Since this course is about security and fear, notice that the ten Boom family does not seem "secure" in the modern sense. They are not wealthy, powerful, private, or in control of their circumstances. Their house is crowded, people are always coming and going, illness enters the family, and Corrie experiences loss and disappointment.
+Since this course is about security and fear, notice that the ten Boom family does not seem "secure" in the modern sense. They are not wealthy, powerful, or in control of their circumstances. Their house is crowded, people are always coming and going, illness enters the family, and Corrie experiences loss and disappointment.
 
 Main question to ponder: Where does the ten Boom family's sense of security seem to come from? Is it based on control, comfort, reputation, family, faith, routine, service, or something else?
 
