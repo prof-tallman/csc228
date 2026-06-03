@@ -14,7 +14,7 @@ As you read, pay attention to the atmosphere of the ten Boom home. What would it
 * How they respond to inconvenience, poverty, sickness, or odd relatives
 * Whether their home feels fearful, peaceful, strict, joyful, chaotic, generous, or some mixture of these
 
-Main question to ponder: What kind of person would this home tend to produce?
+What kind of person would this home tend to produce?
 
 ### 2. Fear, Childhood, and Ordinary Life ###
 
@@ -46,14 +46,20 @@ The early chapters include several pieces of advice, examples, and habits that l
 * The way the ten Booms treat weak, poor, lonely, or difficult people
 * Corrie learning that love is larger than romance or personal happiness
 
-Main question to ponder: What did Corrie learn as a child that would help her face fear and adversity as an adult?
+What did Corrie learn as a child that would help her face fear and adversity as an adult?
 
 ### 4. Security and Fear ###
 
-Since this course is about security and fear, notice that the ten Boom family does not seem "secure" in the modern sense. They are not wealthy, powerful, or in control of their circumstances. Their house is crowded, people are always coming and going, illness enters the family, and Corrie experiences loss and disappointment.
+Since this course is about security and fear, notice that the ten Boom family does not seem "secure" in the modern sense. They are not wealthy, powerful, or in control of their circumstances. Their house is crowded, people are always coming and going, illness enters the family, and Corrie experiences loss and disappointment. Some points to consider as you read:
 
-Main question to ponder: Where does the ten Boom family's sense of security seem to come from? Is it based on control, comfort, reputation, family, faith, routine, service, or something else?
+* How Corrie and Betsie respond to life without husbands
+* What new responsibilities Corrie and Betsie discover
+* How service becomes a source of joy rather than merely a duty
+* How the ten Boom home continues to be a place of welcome and care
+* How Nazi ideas begin to move from distant rumors into Corrie’s everyday life
+
+Where does the ten Boom family’s sense of security and contentment seem to come from?
 
 ### Overall Guiding Question ###
 
-**By the end of Chapter 4, what kind of foundation has been laid in Corrie's life? How might that foundation prepare her to respond to fear differently than someone who had grown up with a different view of safety, suffering, and other people?**
+**By the end of Chapter 4, what kind of foundation has been laid in Corrie's life? How might that foundation prepare her to respond to fear differently than someone who had grown up with another view of safety, suffering, and other people?**
