@@ -4,7 +4,7 @@ The purpose of this lesson is to teach students how the internet works at a popu
 
 My goal is for this lesson to take no more than 50 minutes. This allows the remaining class period time to focus on readings and discussion of the larger class themes. It would be easy for the activities and discussions to get away, so keep a sharp watch on the time.
 
-## Packets and Addresses (20 min) ##
+## Part 1: Packets and Addresses (20 min) ##
 
 This will be an object lesson using postcards that I mailed to myself while on vacation. It will involve several features of data communication, including that large messages can be split across multiple postcards (packets) and that each packet needs an address to be delivered properly. It will ignore things like a sequential numbering system and the route that each packet must travel or the fact that individual postcards might traverse different paths. Students might bring these things up, which would be fine, but they are topics that will be covered in future lessons.
 
@@ -12,7 +12,7 @@ This will be an object lesson using postcards that I mailed to myself while on v
 
 Break the students up into groups of three or four students. Hand each group a set of *four* postcards that contain a letter, with each postcard holding one or two sentences. Each group can receive the same message or there can be a different version for each group. The letter should be written such that it's not completely clear what order the cards should be placed in. Four postcards is ideal because it would be easy to put them all onto a single slide that is displayed for all the students to see at once.
 
-**Note:** The order of the postcard sentences is purposely ambiguous. However, try to avoid resolve the ordering problem too fully here; students will return to this issue in a future lesson.
+**Note:** The order of the postcard sentences is purposely ambiguous. However, try to avoid fully resolving the ordering problem in this lesson; students will return to the packet-ordering issue in a future lesson.
 
 ### Postcard Contents ###
 
@@ -74,7 +74,7 @@ Think about how the addressing for the postcard worked. We cared most about the 
 
 For a postcard or letter to be delivered, it needs both a recipient’s name and a mailing address. Digital communication has a similar problem. We may know that we want to access a website such as `www.wikipedia.org`, but the computer still needs an address it can use to find the server where that website is hosted. That machine-usable address is called an IP address.
 
-## Domain Name System (20 min) ##
+## Part 2: Domain Name System (20 min) ##
 
 The following activity is based on [Code.org's DNS Unplugged Activity](https://studio.code.org/courses/csp-2025/units/2/lessons/6#activity-section-51808796), which is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/). The section below has been adapted from Code.org and updated slightly to fit this course. This use is educational and noncommercial; it does not imply endorsement by Code.org.
 
