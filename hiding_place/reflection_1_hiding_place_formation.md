@@ -23,6 +23,6 @@ Then connect these ideas to the larger course question: **How shall I live with 
 
 You do not need to give a final answer to that question yet. Instead, use this paper to begin thinking about it. What does Corrie's childhood and family life suggest about the kind of foundation a person needs before fear arrives? What habits, beliefs, relationships, or virtues might help a person live faithfully when life is uncertain or unsafe?
 
-You may include a brief connection to your own life, but you are not required to share anything deeply personal. If you do make a personal connection, focus on what you have learned about fear, security, trust, responsibility, or wise living. Feel free to include details from the lessons from theology or psychology.
+You may include a brief connection to your own life, but you are not required to share anything deeply personal. If you do make a personal connection, focus on what you have learned about fear, security, trust, responsibility, or wise living. Feel free to include details from the lessons on theology and/or psychology.
 
 Assume that your readers have not read the book. Your writing should include enough background and context to stand on its own.
