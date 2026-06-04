@@ -63,3 +63,7 @@ Where does the ten Boom family’s sense of security and contentment seem to com
 ### Overall Guiding Question ###
 
 **By the end of Chapter 4, what kind of foundation has been laid in Corrie's life? How might that foundation prepare her to respond to fear differently than someone who had grown up with another view of safety, suffering, and other people?**
+
+## Follow-up Assignment ##
+
+After reading Chapters 1–4, you will be required to write about formation, fear, and security in the ten Boom household. This paper will help you begin thinking about the final course question: How shall I live with respect to fear and security?
