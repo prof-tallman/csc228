@@ -1,4 +1,4 @@
-# The Hiding Place: Reading Guide #
+# The Hiding Place: Reading Guide Chapters 1-4 #
 
 The first chapters of *The Hiding Place* are not so much background information about life before WWII as an explanation of how Corrie was formed before she faced extreme danger. Her family's faith, habits, and relationships helped build a foundation for courage. As you read, look for the foundation that was consistently built into Corrie's life from a young age.
 
@@ -8,11 +8,11 @@ The first chapters of *The Hiding Place* are not so much background information 
 
 As you read, pay attention to the atmosphere of the ten Boom home. What would it have felt like to be a child, customer, neighbor, stranger, or guest in that house? Look especially for examples of:
 
-* How the family treats customers and visitors
-* What Father is respected for
-* What the family enjoys together
-* How they respond to inconvenience, poverty, sickness, or odd relatives
-* Whether their home feels fearful, peaceful, strict, joyful, chaotic, generous, or some mixture of these
+- How the family treats customers and visitors
+- What Father is respected for
+- What the family enjoys together
+- How they respond to inconvenience, poverty, sickness, or odd relatives
+- Whether their home feels fearful, peaceful, strict, joyful, chaotic, generous, or some mixture of these
 
 What kind of person would this home tend to produce?
 
@@ -20,13 +20,13 @@ What kind of person would this home tend to produce?
 
 Corrie's childhood fears are not exactly the same as the fears she will face later, but they matter. As you read, notice what Corrie worries about and how the adults around her respond. Look for moments involving:
 
-* Death
-* Romance and disappointment
-* Sickness
-* Family conflict
-* Growing up
-* Change
-* The wider world outside the Beje
+- Death
+- Romance and disappointment
+- Sickness
+- Family conflict
+- Growing up
+- Change
+- The wider world outside the Beje
 
 Which of Corrie's childhood fears still feel very modern, and which feel distant from modern life?
 
@@ -40,11 +40,11 @@ Which of Corrie's childhood fears still feel very modern, and which feel distant
 
 The early chapters include several pieces of advice, examples, and habits that later help Corrie face danger and suffering. Some are spoken directly; others are shown through the way her family lives. Look especially for:
 
-* Father's advice about death and the train ticket
-* Mother's view of happiness
-* The family's habit of prayer and Scripture
-* The way the ten Booms treat weak, poor, lonely, or difficult people
-* Corrie learning that love is larger than romance or personal happiness
+- Father's advice about death and the train ticket
+- Mother's view of happiness
+- The family's habit of prayer and Scripture
+- The way the ten Booms treat weak, poor, lonely, or difficult people
+- Corrie learning that love is larger than romance or personal happiness
 
 What did Corrie learn as a child that would help her face fear and adversity as an adult?
 
@@ -52,11 +52,11 @@ What did Corrie learn as a child that would help her face fear and adversity as 
 
 Since this course is about security and fear, notice that the ten Boom family does not seem "secure" in the modern sense. They are not wealthy, powerful, or in control of their circumstances. Their house is crowded, people are always coming and going, illness enters the family, and Corrie experiences loss and disappointment. Some points to consider as you read:
 
-* How Corrie and Betsie respond to life without husbands
-* What new responsibilities Corrie and Betsie discover
-* How service becomes a source of joy rather than merely a duty
-* How the ten Boom home continues to be a place of welcome and care
-* How Nazi ideas begin to move from distant rumors into Corrie’s everyday life
+- How Corrie and Betsie respond to life without husbands
+- What new responsibilities Corrie and Betsie discover
+- How service becomes a source of joy rather than merely a duty
+- How the ten Boom home continues to be a place of welcome and care
+- How Nazi ideas begin to move from distant rumors into Corrie’s everyday life
 
 Where does the ten Boom family’s sense of security and contentment seem to come from?
 
