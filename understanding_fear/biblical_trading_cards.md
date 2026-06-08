@@ -2,13 +2,15 @@
 
 ## Overview ##
 
-Create Biblical case study cards that touch on themes of fear, faith, danger, courage, wisdom, or security. Each card will focus on a Biblical person, group, or situation involving fear. Your goal is not only to summarize what happened, but also to think carefully about how the person or group responded to fear and what that response teaches us.
+Create Biblical case study cards that touch on themes of fear and faith. Each card will focus on a Biblical person or situation involving danger or anxiety. Your goal is not only to summarize what happened, but also to think carefully about how the person or group responded to fear, the outcome, and what the situation can teach us.
 
-You will create your cards on **5x7 index cards**. The front of each card should include a visual representation of the story or theme. The back of each card should include a short written case study using the required format below.
+You will create your cards on 5x7 index cards. The front of each card should include a visual representation of the story or theme. The back of each card should include a short written case study using the required format below.
 
 The class will use these cards as the basis for future discussions.
 
 Most of these cards will be hand drawn and hand written. Be sure to use your nicest handwriting so that it can be clearly read. Students are allowed to use a computer to print any of the content, cut it out, and glue it to the index card. 
+
+**This assignment was inspired by Concordia alumnus Dylan Arant, an art major who created a set of dramatic and exciting trading cards for some his favorite Biblical characters. His artwork was eye catching, memorable, and a lot of fun.**
 
 ## Purpose ##
 
@@ -22,7 +24,7 @@ This assignment is meant to help you:
 
 ## Instructions ##
 
-Create **three Biblical case study cards**. When I put this assignment together, I was thinking back to my childhood and how I loved to collect baseball cards. Each card must use a **different theme** and a **different Biblical person, group, or situation**.
+Create a set of Biblical case study cards. Each card must use a different theme and situation.
 
 For each card:
 
@@ -31,8 +33,6 @@ For each card:
 3. Create a visual representation on the front of the card.
 4. Complete the required written format on the back of the card.
 5. Include a guiding Bible verse.
-
-At least **one** of your three cards should make a clear connection to the course themes of technology, security, fear, risk, safety, or decision-making.
 
 ## Required Themes ##
 
