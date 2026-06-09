@@ -1,4 +1,4 @@
-# The Hiding Place: Formation, Fear, and Security #
+# The Hiding Place: Formation, Family, and Faith #
 
 ## Chapters 1–4 Reflection ##
 
