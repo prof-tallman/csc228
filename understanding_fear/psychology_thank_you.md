@@ -2,9 +2,9 @@
 
 ## Overview ##
 
-After our guest speaker visits class, submit three reflection statements about the presentation or Q&A and write a short message for a thank-you card. The reflection statements are meant to show what you learned, noticed, or are still thinking about after the visit. The card message is meant to show appreciation to our guest speaker.
+After our guest speaker visits class, you will submit three concise reflection statements and contribute a brief message to a class thank-you card.
 
-## Purpose ##
+The reflection statements are meant to demonstrate thoughtful engagement with the speaker's presentation. The card is an exercise in professional courtesy: it should express appreciation in a way that is specific, respectful, and connected to the speaker's contribution.
 
 This assignment is meant to help you:
 
@@ -14,9 +14,7 @@ This assignment is meant to help you:
 
 ## Part 1: Three Reflection Statements ##
 
-After the guest speaker’s visit, submit **three specific statements** about the presentation or Q&A.
-
-Each statement should be written in a complete sentence. Your statements may include:
+After the guest speaker's visit, submit three reflections about the presentation or the Q&A. Each statement should be written as a complete thought. Quality is important; length not so much. Your statements may include:
 
 - Something you learned
 - Something you found interesting
@@ -24,21 +22,25 @@ Each statement should be written in a complete sentence. Your statements may inc
 - Something you want to know more about
 - A question you are still thinking about
 - A connection to technology, security, risk, safety, or decision-making
-- A connection to another reading, discussion, or theme from the course
+- A connection to a reading, discussion, or theme from the course
 
-**Note**: If you take the time to put thought and effort into these three reflection statements, the second part of the assignment will be easier.
+Strong reflection statements should do more than say that the presentation was "interesting" or "helpful." They should identify what was interesting or helpful and briefly explain why it matters.
 
-## Example Submission ##
+### Examples ###
 
 Your three statements might look something like this:
 
 1. One thing I learned was that fear can sometimes be reinforced when people avoid the thing they are afraid of.
-2. One thing I found interesting was the speaker’s explanation that fear can be useful when it helps us recognize real danger, but harmful when it controls our decisions.
-3. One connection I am still thinking about is how cybersecurity professionals can prepare for serious threats without becoming driven by fear.
+2. One thing I found interesting was the speaker's explanation that fear can be useful when it helps us recognize real danger, but harmful when it controls our decisions.
+3. I found the distinction between actual danger and perceived danger useful because it connects directly to how people evaluate security risks.
 
 ## Part 2: Thank-You Card Message ##
 
-In the next class meeting, write a short thank-you message to the guest speaker on the class card. Your message should be **1-3 sentences**. It should be sincere, respectful, and specific. Mention a specific idea, answer, example, or comment from the presentation or Q&A that stood out to you.
+In the next class meeting, you will write a short thank-you message to the guest speaker on the class card. Your message should be 1–3 sentences to allow room for the other students. A strong card message should be:
+
+- **Specific**: mention an idea, example, answer, or distinction from the presentation
+- **Sincere**: express genuine appreciation without exaggeration
+- **Professional**: use a respectful tone appropriate for a guest speaker
 
 ### Examples ###
 
