@@ -6,12 +6,6 @@ After our guest speaker visits class, you will submit three concise reflection s
 
 The reflection statements are meant to demonstrate thoughtful engagement with the speaker's presentation. The card is an exercise in professional courtesy: it should express appreciation in a way that is specific, respectful, and connected to the speaker's contribution.
 
-This assignment is meant to help you:
-
-- Listen carefully during the guest speaker's presentation
-- Express appreciation in a thoughtful and respectful way
-- Connect the speaker's comments to the themes of this course
-
 ## Part 1: Three Reflection Statements ##
 
 After the guest speaker's visit, submit three reflections about the presentation or the Q&A. Each statement should be written as a complete thought. Quality is important; length not so much. Your statements may include:
