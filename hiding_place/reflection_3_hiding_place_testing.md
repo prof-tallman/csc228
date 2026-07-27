@@ -18,11 +18,11 @@ In your response, discuss at least two specific examples from Chapters 9–12. Y
 - What opportunities does Corrie still have to speak truth, show kindness, receive help, resist evil, or care for others?
 - How do Corrie's encounters with Lieutenant Rahms, the prison nurse, her family, Jan Vogel, or the Philips factory reveal what faithfulness looks like in limited circumstances?
 - Where does Corrie see signs of God's care, provision, or guidance?
-- What biblical passages or themes seem especially important for understanding Corrie’s choices?
+- What biblical passages or themes seem especially important for understanding Corrie's choices?
 
 Then connect these ideas to the larger course question: **How shall I live with respect to fear and security?**
 
-You do not need to give a final answer to that question yet. Instead, use this paper to continue developing your answer. Chapters 9–12 show that fear can take away many ordinary forms of security; but it does not absolve responsibility, it often provides new opportunities, and cultivates our hope in Christ. What do these chapters suggest about living faithfully when your choices are limited, your future is uncertain, and your circumstances are beyond your control?
+You do not need to give a final answer to that question yet. Instead, use this paper to continue developing your answer. Chapters 9–12 show that fear can take away many ordinary forms of security, but it does not remove responsibility. Even when Corrie's choices are limited, God provides new opportunities for faithfulness and uses the experience to cultivate hope in Christ. What do these chapters suggest about living faithfully when your choices are limited, your future is uncertain, and your circumstances are beyond your control?
 
 You may include a brief connection to your own life, but you are not required to share anything deeply personal. If you do make a personal connection, focus on what you have learned about fear, security, responsibility, courage, limited choices, or wise living. Feel free to include details from the lessons on theology and/or psychology.
 
