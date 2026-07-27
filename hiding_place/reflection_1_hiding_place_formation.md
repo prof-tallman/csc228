@@ -4,7 +4,7 @@
 
 The first four chapters of *The Hiding Place* describe how Corrie ten Boom's character was formed before she faced the extreme dangers of Nazi occupation. These chapters are not merely background information. They show the family, faith, habits, relationships, and early lessons that helped shape Corrie's understanding of fear, suffering, security, and service.
 
-After reading Chapters 1–4, respond to the following prompt in a 2–3 page paper. A typical response will be about 750–1,500 words, depending on formatting.
+After reading Chapters 1–4,  respond to the following prompt in a 1–2 page paper. Your paper should be no more than 3 pages. A typical response will be about 500–1,000 words, depending on formatting.
 
 ## Reflection Question ##
 

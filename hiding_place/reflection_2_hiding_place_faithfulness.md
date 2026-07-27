@@ -4,7 +4,7 @@
 
 Chapters 5–8 of *The Hiding Place* show Corrie ten Boom and her family moving from ordinary life into the danger of Nazi occupation and underground resistance. Political promises fail, outward safety disappears, and the suffering of Jewish neighbors becomes impossible to ignore. The ten Booms must make daily choices about truth, secrecy, courage, hospitality, resistance, and faithfulness.
 
-After reading Chapters 5–8, respond to the following prompt in a 2–3 page paper. A typical response will be about 750–1,500 words, depending on formatting.
+After reading Chapters 5–8,  respond to the following prompt in a 1–2 page paper. Your paper should be no more than 3 pages. A typical response will be about 500–1,000 words, depending on formatting.
 
 ## Reflection Question ##
 
