@@ -15,7 +15,7 @@ In Chapter 9, the danger that has been looming over the Beje finally arrives. Th
 
 What does Chapter 9 show about the difference between preparing for danger and actually facing it?
 
-### 10. Prison Treasures ###
+### 10. Treasure in a Prison ###
 
 Chapter 10 follows Corrie, Father, Nollie, and many others into Scheveningen prison. The family is separated, stripped of ordinary comfort, and treated like common criminals. Yet even in prison, Corrie receives unexpected encouragement and begins to discover that God's care has not disappeared. As you read, pay attention to what is taken away and what remains. Look especially for:
 
