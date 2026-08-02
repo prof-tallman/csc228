@@ -21,7 +21,7 @@ You will not know the exact questions in advance. Prepare by making sure that yo
 * Part I: 30 minutes
 * Part II: 45 minutes
 
-## Quotes Page ##
+### Quotes Page ###
 
 You may bring an approved notes page containing three selected quotations from each book. Choose quotations that:
 
@@ -32,13 +32,13 @@ You may bring an approved notes page containing three selected quotations from e
 
 For each quotation, know its context, who said it or what idea it expresses, and why it matters. The quotation itself will not earn much credit unless you explain how it supports your response.
 
-## Homework Page ##
+### Homework Page ###
 
 In addition to your quotes page, you may print and bring one completed homework assignment from this course. The assignment must be your own work and must remain in its original form; you may not add new notes, outlines, quotations, or a prepared essay to it before the exam.
 
 Choose a homework assignment that will help you recall important ideas, examples, or connections from the course. You may refer to it during either part of the exam, but you will still need to explain the material in your own words and apply it to the questions you are given.
 
-# Part I: Technical Concepts #
+## Part I: Technical Concepts ##
 
 **40 points**
 
@@ -68,7 +68,7 @@ Be prepared to:
 - Describe the important steps in a technical process.
 - Connect an internet concept to a question about fear, risk, trust, or security.
 
-# Part II: Essay on Fear #
+## Part II: Essay on Fear ##
 
 **60 points**
 
@@ -94,7 +94,7 @@ Be prepared to:
 - Recognize a tension, limitation, cost, or reasonable alternative to your position.
 - End with a principle that could guide your own future decisions.
 
-## Part II Scoring ##
+### Part II Scoring ###
 
 | Criterion | Points |
 | --------- | -----: |
