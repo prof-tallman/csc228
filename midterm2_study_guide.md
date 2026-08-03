@@ -94,7 +94,7 @@ Be prepared to:
 - Recognize a tension, limitation, cost, or reasonable alternative to your position.
 - End with a principle that could guide your own future decisions.
 
-### Part II Scoring ###
+### Part II Grading Criteria ###
 
 | Criterion | Points |
 | --------- | -----: |
