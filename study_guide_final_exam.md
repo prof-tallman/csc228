@@ -21,9 +21,7 @@ Prof. Tallman will attempt to create an assignment that you will find interestin
 
 The rubric below shows the criteria that Prof. Tallman will use to evaluate your final paper.
 
-## Grading Criteria ##
-
-**100 points**
+## Grading Criteria (100 points) ##
 
 | Criterion | Exceeds Expectations (10–12) | Meets Expectations (7–9) | Needs Improvement (4–6) | Below Expectations (0–3) |
 | --------- | ---------------------------- | ------------------------ | ----------------------- | ------------------------ |

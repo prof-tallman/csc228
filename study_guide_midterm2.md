@@ -63,7 +63,7 @@ Review the major ideas from our internet activities:
 - How TCP detects and responds to lost, delayed, duplicated, or out-of-order packets
 
 Be prepared to:
-TCP/IP
+
 - Explain a concept or process clearly in your own words.
 - Use a specific example from a reading or class activity.
 - Describe the important steps in a technical process.
