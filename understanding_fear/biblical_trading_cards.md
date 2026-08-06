@@ -8,7 +8,7 @@ You will create your trading cards on 5×7 index cards. The front of each card s
 
 The class will use these cards as the basis for future discussions.
 
-Most of these cards will be hand drawn and hand written. Be sure to use your nicest handwriting so that it can be clearly read. Students are allowed to use a computer to print any of the content, cut it out, and glue it to the index card. 
+Most of these cards will be hand drawn and hand written. Be sure to use your nicest handwriting so that it can be read clearly. Students are allowed to use a computer to print any of the content, cut it out, and glue it to the index card.
 
 **This assignment was inspired by Concordia alumnus Dylan Arant, an art major who created a set of dramatic and exciting trading cards for some of his favorite biblical characters. His artwork was eye catching, memorable, and a lot of fun.**
 
@@ -37,9 +37,9 @@ For each card:
 
 As you think about these themes and the biblical passages they connect to, remember: Some faithful responses lead to rescue, but others lead to suffering or even death in this life. A "good" biblical response does not always mean the earthly outcome is easy, safe, or successful. Obedience to God may lead to prosperity on this earth--and it often does--but obedience can also lead to temporary suffering with the hope of an eternal reward.
 
-There are a few rules to guide your theme selection. **One of your three cards must use the theme Most Relatable Fear.** For this card, choose a biblical situation involving a fear that still feels relevant in the 21st century. For the remaining cards, you are free to choose your own theme as long as it relates to the course.
+There are a few rules to guide your theme selection. **One of your cards must use the theme Most Relatable Fear.** For this card, choose a biblical situation involving a fear that still feels relevant in the 21st century. For the remaining cards, you are free to choose your own theme as long as it relates to the course.
 
-### Suggested Themes ###
+### Potential Themes ###
 
 - Most relatable fear
 - Trust in God
@@ -64,14 +64,14 @@ You may use:
 - Original artwork
 - Symbols or abstract design
 - Public domain artwork
-- Properly credited openly licensed images
+- Properly credited, openly licensed images
 - AI-generated images, if clearly labeled
 
 The artwork does not need to be elaborate. Simple drawings, symbols, or designs are fine. The goal is to represent the story or theme thoughtfully.
 
 Any image that you did not create yourself must be identified. If you use public domain artwork, include the artist, title, or source (if known). If you use an AI-generated image, label it clearly. Note: AI-generated images may be used only as visual support for the front of the card. The written analysis on the back of the card must be your own work.
 
-The artwork will be graded for relevance, care, and appropriateness, not artistic skill.
+The artwork will be graded for relevance, care, and appropriateness... not artistic skill.
 
 ## Back of the Card ##
 
@@ -141,14 +141,16 @@ In some situations, the outcome is complicated or has aspects that are both posi
 
 ## Example Card Back ##
 
-**Theme:** Trust in God
-**Passage:** Nehemiah 1-4
-**Character:** Nehemiah
-**Situation:** The Israelite people were rebuilding the walls of Jerusalem while being threatened and harassed by their enemies.
-**Response:** Nehemiah prayed to God, encouraged the people, and also posted guards while the work continued.
-**Outcome:** The people finished rebuilding the city walls.
-**Guiding verse:** "And we prayed to our God and set a guard as a protection against them day and night." Nehemiah 4:9
-**Lesson about fear:** Trusting God does not mean ignoring real danger; faithful courage can include wise preparation.
+For example, a card about Nehemiah might contain this information:
+
+- **Theme:** Trust in God
+- **Passage:** Nehemiah 1-4
+- **Character:** Nehemiah
+- **Situation:** The Israelite people were rebuilding the walls of Jerusalem while being threatened and harassed by their enemies.
+- **Response:** Nehemiah prayed to God, encouraged the people, and also posted guards while the work continued.
+- **Outcome:** The people finished rebuilding the city walls.
+- **Guiding verse:** "And we prayed to our God and set a guard as a protection against them day and night." Nehemiah 4:9
+- **Lesson about fear:** Trusting God does not mean ignoring real danger; faithful courage can include wise preparation.
 
 ## Conclusion ##
 
