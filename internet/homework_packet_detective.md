@@ -10,7 +10,7 @@ Your job is to determine what happened.
 
 Four computers appear in the packet log:
 
-* Two client computers
+* Two client computers (`Client 1` and `Client 2`)
 * One DNS server
 * One web server
 
