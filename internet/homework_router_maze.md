@@ -2,11 +2,9 @@
 
 In class, we learned that routers do not need to know the entire path that a packet will take across the Internet. Each router looks at the packet's destination address, consults its routing table, and decides where to send the packet next.
 
-In this assignment, you will work backward from a collection of routing tables to discover how a small, fictional internet is connected.
+In this assignment, you will work backward from a collection of routing tables to discover how a small, fictional internet is connected. Then you will help a packet named "Timmy" travel from his starting location to Timbuktu. Unfortunately, as you will find, someone has made a mistake in the routing tables.
 
-Then you will help a packet named "Timmy" travel from his starting location to Timbuktu.
-
-Unfortunately, as you will find, someone has made a mistake in the routing tables.
+The purpose of this assignment is not to memorize routing-table syntax. Instead, use the tables to reason carefully about where each packet will go.
 
 ## The Network ##
 
@@ -144,5 +142,3 @@ Submit all parts of the assignment together. Your submission should include:
 - Your answers to the explanation questions
 
 Your network diagram may be created digitally or drawn neatly by hand and photographed or scanned.
-
-The purpose of this assignment is not to memorize routing-table syntax. Instead, use the tables to reason carefully about where each packet will go.
