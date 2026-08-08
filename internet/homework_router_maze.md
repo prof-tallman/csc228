@@ -4,8 +4,6 @@ In class, we learned that routers do not need to know the entire path that a pac
 
 In this assignment, you will work backward from a collection of routing tables to discover how a small, fictional internet is connected. Then you will help a packet named "Timmy" travel from his starting location to Timbuktu. Unfortunately, as you will find, someone has made a mistake in the routing tables.
 
-The purpose of this assignment is not to memorize routing-table syntax. Instead, use the tables to reason carefully about where each packet will go.
-
 ## The Network ##
 
 This Internet contains ten routers. Each router is named after the city where it is located and each city has one or more `/24` networks connected directly to it. You do not have a diagram of the network. Instead, you must determine how the routers are connected by examining their routing tables.
@@ -142,3 +140,7 @@ Submit all parts of the assignment together. Your submission should include:
 - Your answers to the explanation questions
 
 Your network diagram may be created digitally or drawn neatly by hand and photographed or scanned.
+
+## Attribution and Acknowledgements ##
+
+The core of this homework assignment and many of the subsequent revisions were designed by Prof. Tallman. AI was used to generate an initial routing table, to help with some of the prose, and to evaluate the final version for internal consistency.
