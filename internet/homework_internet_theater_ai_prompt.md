@@ -2,7 +2,7 @@
 
 Here is an example of how I used AI to help polish one of my own ideas for a homework assignment. The prompt below contains the ideas, requirements, technical content, and AI policy that I wanted the assignment to include. I then asked ChatGPT to organize and polish those ideas into a student-facing assignment.
 
-Students who are interested may compare the AI-generated response with the [final assignment](https://github.com/prof-tallman/csc228/internet/homework_internet_theater.md), which is my own edited version of the AI's response.
+Students who are interested may compare the AI-generated response with the [final assignment](homework_internet_theater.md), which is my own edited version of the AI's response.
 
 **Note:** I had previously uploaded a handful of samples to ChatGPT so that it had access to the format, length, and tone of my work.
 

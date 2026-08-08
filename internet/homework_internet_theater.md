@@ -54,7 +54,7 @@ Before asking AI to write your script, you should decide what your play is going
 
 I expect your prompts to contain a similar level of substantive technical content and understanding. The AI may help with the creative transformation, but the computer science should come from you.
 
-You should restrict the play to technical material that you understand well enough to explain in your prompt. For example, here is a [link](https://github.com/prof-tallman/csc228/internet/homework_internet_theater_ai_prompt.md) to the prompt that I wrote for this very assignment. As you'll see, I designed the assignment myself and then asked AI to generate something in the same format and style as my own previous work. I expect your prompts to contain the same level of core technical content and understanding.
+You should restrict the play to technical material that you understand well enough to explain in your prompt. For example, here is a [link](homework_internet_theater_ai_prompt.md) to the prompt that I wrote for this very assignment. As you'll see, I designed the assignment myself and then asked AI to generate something in the same format and style as my own previous work. I expect your prompts to contain the same level of core technical content and understanding.
 
 You are welcome to conduct additional research before writing your prompt, but that research should be done without using generative AI to explain the material for you. You should understand the material first and then use AI as a creative tool.
 
