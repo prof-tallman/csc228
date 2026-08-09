@@ -6,7 +6,11 @@ The really funny example below is from XKCD. It sets the bar higher than what I 
 
 ![XKCD's Exploits of a Mom (aka Bobby Tables)](https://imgs.xkcd.com/comics/exploits_of_a_mom.png)
 
-Here is another example of a comic, and one that might be more on our level. Hopefully it helps you get the creative juices flowing. Create three characters: a client computer, a web server, and a Certificate Authority. (Do they walk into a bar? I don't know). Have these characters "talk" through the basic steps of setting up a secure web session using public key cryptography. You could choose to have the session setup correctly or there could be an error like an invalid domain name or expired certificate.
+Here is a brief description of a potential comic, and one that might be more on our level. Hopefully it helps you get the creative juices flowing. Create three characters: a client computer, a web server, and a Certificate Authority. (Do they walk into a bar? I don't know). Have these characters "talk" through the basic steps of setting up a secure web session using public key cryptography. You could choose to have the session setup correctly or there could be an error like an invalid domain name or expired certificate.
+
+### Memes ###
+
+Your submission should primarily be a comic strip or short visual story. You may incorporate meme-style panels, images, or humor as part of the comic, but a single meme by itself does not satisfy the assignment.
 
 ## Requirements ##
 
