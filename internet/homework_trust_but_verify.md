@@ -14,9 +14,9 @@ Open the digital certificate associated with your website. Depending on your bro
 
 1. Website: What website are you investigating?
 
-2. Subject: To what hostname or domain was the certificate issued?
+2. Subject: What information appears in the certificate's Subject field?
 
-3. Subject Alternative Names: What other hostnames, domains, or wildcard domains can use this certificate (if any)?
+3. Subject Alternative Names: What hostnames, domains, or wildcard domains does the certificate identify as valid for this certificate?
 
 4. Issuer: Who issued this certificate?
 
@@ -34,9 +34,9 @@ You are not expected to understand the mathematics behind any of these algorithm
 
 | Algorithm | Type | What You Should Know |
 | --------- | ---- | -------------------- |
-| **AES** | Symmetric Encryption | A widely used modern encryption algorithm. The same secret key is used for encryption and decryption. AES commonly uses 128-, 192-, or 256-bit keys. |
-| **ChaCha20** | Symmetric Encryption | A modern alternative to AES. It also uses a shared secret key, although its internal design is very different from AES. You may encounter ChaCha20 as part of a TLS connection, but it is not normally the public-key algorithm stored in a certificate. |
-| **RSA** | Public-Key Encryption | The public-key system studied in class. Its security is related to the difficulty of factoring very large numbers that are the product of large primes. RSA keys are commonly 2048 bits or larger. |
+| **AES** | Symmetric Cryptography | A widely used modern encryption algorithm. The same secret key is used for encryption and decryption. AES commonly uses 128-, 192-, or 256-bit keys. |
+| **ChaCha20** | Symmetric Cryptography | A modern alternative to AES. It also uses a shared secret key, although its internal design is very different from AES. You may encounter ChaCha20 as part of a TLS connection, but it is not normally the public-key algorithm stored in a certificate. |
+| **RSA** | Public-Key Cryptography | The public-key system studied in class. Its security is related to the difficulty of factoring very large numbers that are the product of large primes. RSA keys are commonly 2048 bits or larger. |
 | **RSA-PSS** | Digital Signature | A modern method of creating digital signatures using RSA. The underlying public-key mathematics is still RSA; PSS describes how RSA is used to create and verify the signature. |
 | **ECDSA** | Digital Signature | The Elliptic Curve Digital Signature Algorithm. It uses elliptic-curve cryptography to create digital signatures and can provide strong security with much smaller keys than RSA. |
 | **Ed25519 / EdDSA** | Digital Signature | A newer family of elliptic-curve signature algorithms designed to provide strong security and efficient digital signatures. |
@@ -57,9 +57,9 @@ A digital certificate contains a public key and is itself protected by a digital
 
 11. What hash algorithm is associated with that signature, if one is listed?
 
-12. Find a certificate fingerprint, such as a SHA-256 fingerprint. What hash algorithm is used, and what is the fingerprint?
+12. Find a fingerprint calculated for the certificate, such as a SHA-256 fingerprint. What hash algorithm is used, and what is the fingerprint?
 
-13. Explain the difference between (a) the website's public key, (b) the CA's digital signature, and (c) and the certificate's fingerprint. Your explanation does not need to be long, but it should make clear that these are three different things with three different purposes.
+13. Explain the difference between (a) the website's public key, (b) the CA's digital signature on the certificate, and (c) the certificate's fingerprint. Your explanation does not need to be long, but it should make clear that these are three different things with three different purposes.
 
 ## Part 3: Who Says We Should Trust Them? ##
 
@@ -74,7 +74,7 @@ You may organize this information as a short list or simple diagram. For example
 
 ## Part 4: Find the Root ##
 
-Follow the chain until you reach the Root Certificate Authority.
+Follow the certificate chain until you identify the Root Certificate Authority that serves as the trust anchor.
 
 15. What is the name of the Root Certificate Authority?
 
