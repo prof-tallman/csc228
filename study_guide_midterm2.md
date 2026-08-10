@@ -23,7 +23,7 @@ The exam will include two parts:
 
 ### Readings and Material Covered ###
 
-- *Beyond Fear*, Chapters 1, 2, 3, 7, and 13
+- *Beyond Fear*, Chapters 1, 2, 3, and 7
 - *The Hiding Place*, Chapters 1–8
 - Class lessons and activities on the internet and internet security
 
@@ -52,7 +52,6 @@ Review the following ideas from *Beyond Fear*:
 - How people estimate and misjudge risk
 - The competing goals and constraints of attackers versus defenders
 - Complexity and its effects on security
-- Authentication, identity, and trust
 - The costs, benefits, and tradeoffs involved in security decisions
 
 Review the major ideas from our internet activities:
