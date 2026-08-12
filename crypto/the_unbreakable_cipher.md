@@ -23,9 +23,9 @@ Also, notice that the letter `A` in the key results in a Caesar shift of `0`. Th
 1. Encrypt John 3:16 with the Vigenère Cipher using the key "JOHN".
 2. Decrypt the following ciphertext using the keyword "ROMANS".
 
-```
-SIF GBV USYOAKKFMTRK YWE OJF CCHE SGI IE IA LYWE: JZZZQ WR OVFQ SGACZ EIAFVFE, PZIWET QAVR ROE MJ.
-```
+   ```
+   SIF GBV USYOAKKFMTRK YWE OJF CCHE SGI IE IA LYWE: JZZZQ WR OVFQ SGACZ EIAFVFE, PZIWET QAVR ROE MJ.
+   ```
 
 ## Cryptanalysis ##
 
@@ -53,6 +53,6 @@ During World War II, Soviet intelligence services used OTP to protect their comm
 
 The Soviet reuse of OTP keys during World War II demonstrates that even theoretically perfect security systems can fail under operational pressure. In practice, humans often take shortcuts because of fear, urgency, exhaustion, convenience, limited resources, or competing priorities.
 
-Describe a real-world situation (technological or otherwise) where people knowingly violate good security or safety procedures because the process is too difficult, slow, expensive, or inconvenient. Explain why the shortcut is attractive, what risks it creates, and whether the tradeoff reflects wise and responsible living.
+3. Describe a real-world situation (technological or otherwise) where people knowingly violate good security or safety procedures because the process is too difficult, slow, expensive, or inconvenient. Explain why the shortcut is attractive, what risks it creates, and whether the tradeoff reflects wise and responsible living.
 
 Once again, assume that readers will not have access to this assignment; your writing should include enough background and introduction to stand on its own.

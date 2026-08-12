@@ -32,9 +32,9 @@ Armed with the random message key, the recipient would rotate the scramblers unt
 
 Although a working mechanical Enigma machine might not be readily available to students, there are several freely available online simulators. Consider any of these websites:
 
-* [GCHQ's Cyber Chef](https://gchq.github.io/CyberChef/#recipe=Enigma('3-rotor','LEYJVCNIXWPBQMDRTAKZGFUHOS','A','A','EKMFLGDQVZNTOWYHXUSPAIBRCJ%3CR','A','A','AJDKSIRUXBLHWTMCQGZNPYFVOE%3CF','A','A','BDFHJLCPRTXVZNYEIWGAKMUSQO%3CW','A','A','AY%20BR%20CU%20DH%20EQ%20FS%20GL%20IP%20JX%20KN%20MO%20TZ%20VW','',true)) (probably the most authoritative source)
-* [101 Computing's Simulator](https://www.101computing.net/enigma-machine-emulator/) (definitely the most fancy looking)
-* [Daniel Pallok's Enigma Website](https://people.physik.hu-berlin.de/~palloks/js/enigma/enigma-u_v262_en.html) (a well done hobbyist website)
+- [GCHQ's Cyber Chef](https://gchq.github.io/CyberChef/#recipe=Enigma('3-rotor','LEYJVCNIXWPBQMDRTAKZGFUHOS','A','A','EKMFLGDQVZNTOWYHXUSPAIBRCJ%3CR','A','A','AJDKSIRUXBLHWTMCQGZNPYFVOE%3CF','A','A','BDFHJLCPRTXVZNYEIWGAKMUSQO%3CW','A','A','AY%20BR%20CU%20DH%20EQ%20FS%20GL%20IP%20JX%20KN%20MO%20TZ%20VW','',true)) (probably the most authoritative source)
+- [101 Computing's Simulator](https://www.101computing.net/enigma-machine-emulator/) (definitely the most fancy looking)
+- [Daniel Pallok's Enigma Website](https://people.physik.hu-berlin.de/~palloks/js/enigma/enigma-u_v262_en.html) (a well done hobbyist website)
 
 There are a handful of Enigma machines in museums that still work and are sometimes even available for visitors to use. Prof. Tallman had the privilege of typing on a working machine at the National Cryptologic Museum in Maryland. Enigmas are occasionally available for auction, although a working machine often costs tens of thousands of dollars.
 
@@ -42,6 +42,6 @@ There are a handful of Enigma machines in museums that still work and are someti
 
 During World War II, the Enigma machine gave governments powerful new ways to communicate securely and coordinate warfare. Modern technologies similarly give ordinary people abilities that previous generations could barely imagine.
 
-Describe a modern technology that you believe people have adopted without fully understanding its consequences. What makes it difficult to use this technology wisely?
+3. Describe a modern technology that you believe people have adopted without fully understanding its consequences. What makes it difficult to use this technology wisely?
 
 Avoid broad or shallow answers. Focus on examples and explain how the technology affects human behavior, relationships, institutions, or moral decision making. Consider both the opportunities and the risks created by the technology.

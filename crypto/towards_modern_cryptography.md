@@ -57,7 +57,13 @@ To calculate a cryptographic hash, Windows users may use GPG or the built-in Cer
 
 ```
 gpg --print-md SHA256 message.txt
+```
+
+```
 certutil -hashfile message.txt SHA256
+```
+
+```
 shasum -a 256 message.txt
 ```
 
@@ -78,6 +84,6 @@ Modern encryption algorithms such as AES and SHA-256 are considered extremely se
 
 ## Reflection Question ##
 
-Briefly describe a modern technology or security system that appears secure mathematically or technically, but still depends heavily on human responsibility to function safely. What kinds of human behaviors weaken the system, and why do people continue making these mistakes even when they understand the risks?
+16. Briefly describe a modern technology or security system that appears secure mathematically or technically, but still depends heavily on human responsibility to function safely. What kinds of human behaviors weaken the system, and why do people continue making these mistakes even when they understand the risks?
 
 Avoid broad or shallow answers. Focus on specific examples and explain your reasoning carefully. Assume that your readers will not have access to this assignment. Your writing should include enough background and explanation to stand on its own.

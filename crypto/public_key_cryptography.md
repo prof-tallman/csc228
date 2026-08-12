@@ -6,8 +6,8 @@ Modern symmetric cryptography is extraordinarily powerful, but it creates an imp
 
 Public key cryptography provides a different approach. Rather than using one shared secret, each person creates two related keys:
 
-* A public key, which may be given to other people.
-* A private key, which must remain secret.
+- A public key, which may be given to other people.
+- A private key, which must remain secret.
 
 Other people use your public key to encrypt messages intended for you. You use your private key to decrypt those messages. To send an encrypted message to another person, you need a copy of that person's public key. A public key can be distributed to other people without giving them the ability to read messages encrypted for you.
 
@@ -27,10 +27,10 @@ gpg --full-generate-key
 
 Follow the prompts carefully:
 
-* You may accept the recommended default key type and size.
-* Set the key to expire after a reasonable amount of time, such as one year.
-* Enter your real name and Eagles email address.
-* Create a passphrase that you can remember for the duration of this assignment. Your passphrase protects your private key on your computer. Do not forget it.
+- You may accept the recommended default key type and size.
+- Set the key to expire after a reasonable amount of time, such as one year.
+- Enter your real name and Eagles email address.
+- Create a passphrase that you can remember for the duration of this assignment. Your passphrase protects your private key on your computer. Do not forget it.
 
 After generating your key pair, list the public keys stored in your GPG keyring. You should see an entry containing your name and email address.
 
@@ -40,7 +40,7 @@ gpg --list-keys
 
 ### Protecting Your Private Key ###
 
-Your public key is intended to be shared. Your private key is not. Do not send your private key to Prof. Tallman. Do not upload your private key to Canvas. Do not share the passphrase protecting your private key with anyone.
+Your public key is intended to be shared. Your private key is not. Do not send your private key to anyone, including Prof. Tallman. Do not upload your private key to Canvas. Do not share the passphrase protecting your private key with anyone.
 
 For this assignment, you will submit only an exported copy of your public key. An exported public key file begins with text similar to this:
 
@@ -70,7 +70,7 @@ Open the exported file in a text editor and verify that it begins with:
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 ```
 
-Submit your exported public key file to Prof. Tallman and he will use it to encrypt a short message for you.
+1. Submit your exported public key file to Prof. Tallman and he will use it to encrypt a short message for you.
 
 ### Decrypting a Message from Prof. Tallman ###
 
@@ -82,10 +82,10 @@ gpg --decrypt --output plaintext.txt ciphertext.txt
 
 Open the resulting plaintext file and record the message that you recovered. You will include it in your encrypted response to Prof. Tallman.
 
-1. What key did Prof. Tallman use to encrypt the message sent to you?
-2. What key did you use to decrypt the message?
-3. Why would another student be unable to decrypt the message sent to you merely by obtaining a copy of your public key?
-4. What would happen if you lost your private key or forgot the passphrase protecting it?
+2. What key did Prof. Tallman use to encrypt the message sent to you?
+3. What key did you use to decrypt the message?
+4. Why would another student be unable to decrypt the message sent to you merely by obtaining a copy of your public key?
+5. What would happen if you lost your private key or forgot the passphrase protecting it?
 
 ### Importing Prof. Tallman's Public Key ###
 
@@ -118,16 +118,16 @@ To verify that the encryption worked correctly, open the output file in a text e
 
 After completing the public key encryption assignment, think about the overall security of the system.
 
-5. In the previous AES assignment, you needed a shared password to encrypt and decrypt a file. How is the communication process different in this assignment?
-6. Why is it safer to send your public key than a password, even though Prof. Tallman could use either to encrypt a confidential message?
-7. Why would it be dangerous to send your private key to Prof. Tallman or upload it as part of your assignment submission?
-8. Suppose Prof. Tallman sends you a second encrypted message using the same public key that you provided. Would you need a new private key to decrypt the second message? Explain your answer.
-9. Your private key is protected by a passphrase. Why does the quality of this passphrase matter even though the encryption system itself is strong?
+6. In the previous AES assignment, you needed a shared password to encrypt and decrypt a file. How is the communication process different in this assignment?
+7. Why is it safer to send your public key than a password, even though Prof. Tallman could use either to encrypt a confidential message?
+8. Why would it be dangerous to send your private key to Prof. Tallman or upload it as part of your assignment submission?
+9. Suppose Prof. Tallman sends you a second encrypted message using the same public key that you provided. Would you need a new private key to decrypt the second message? Explain your answer.
+10. Your private key is protected by a passphrase. Why does the quality of this passphrase matter even though the encryption system itself is strong?
 
 This assignment allowed you and Prof. Tallman to exchange confidential messages without first sharing a secret password. Assume, however, that another person wanted to interfere and exchange confidential messages with you in place of Prof. Tallman.
 
 ## Reflection Question ##
 
-Describe one or more ways that the exchange could still go wrong even if the cryptographic algorithms themselves are strong and GPG works correctly. What could an attacker do? Do not limit your answer to protecting your private key or choosing a good passphrase. Think carefully about the entire communication process: creating keys, sending keys, receiving keys, encrypting messages, and deciding whom you are actually communicating with.
+11. Describe one or more ways that the exchange could still go wrong even if the cryptographic algorithms themselves are strong and GPG works correctly. What could an attacker do? Do not limit your answer to protecting your private key or choosing a good passphrase. Think carefully about the entire communication process: creating keys, sending keys, receiving keys, encrypting messages, and deciding whom you are actually communicating with.
 
 Avoid broad or shallow answers. Explain a specific possible weakness and reason carefully about what could happen. Assume that your readers will not have access to this assignment; your writing should include enough background and explanation to stand on its own.

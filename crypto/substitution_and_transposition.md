@@ -17,8 +17,8 @@ The quick brown fox jumps over the lazy dog.
 
 For all encryption exercises:
 
-* Preserve spaces and punctuation.
-* Use the standard convention of converting all ciphertexts to uppercase and all plaintexts to lowercase.
+- Preserve spaces and punctuation.
+- Use the standard convention of converting all ciphertexts to uppercase and all plaintexts to lowercase.
 
 ## Caesar Shift Cipher ##
 
@@ -42,13 +42,13 @@ Two secret messages have been intercepted. One was encrypted with the Caesar Shi
 
 9. Determine which ciphertext corresponds to which cipher and then crack both messages by decrypting them without knowing the key.
 
-```
-TI SM OMN-ESRN N ORGOS ONTB FADO ICUAE.FRTELR ORGDI IHYUWEEE O OHSI YCMADB TOGADCUAEU!D O EARI RDSORGD O H ODYU O SWT O HRVRYUG.
-```
+   ```
+   TI SM OMN-ESRN N ORGOS ONTB FADO ICUAE.FRTELR ORGDI IHYUWEEE O OHSI YCMADB TOGADCUAEU!D O EARI RDSORGD O H ODYU O SWT O HRVRYUG.
+   ```
 
-```
-JSV KSH LEW RSX KMZIR YW E WTMVMX SJ JIEV ERH XMQMHMXC, FYX SJ TSAIV, PSZI, ERH WIPJ-HMWGMTPMRI.
-```
+   ```
+   JSV KSH LEW RSX KMZIR YW E WTMVMX SJ JIEV ERH XMQMHMXC, FYX SJ TSAIV, PSZI, ERH WIPJ-HMWGMTPMRI.
+   ```
 
 ## Modern Algorithms ##
 
@@ -56,4 +56,4 @@ Most modern algorithms are still based on substitution and transposition, but th
 
 ## Reflection Question ##
 
-Briefly describe (a) how you determined which algorithm corresponded to which ciphertext; (b) the technique that you used to crack the Caesar Shift Cipher; and (c) crack the Rail Fence Cipher. Each portion of the answer (A-C) should be a well-formed paragraph. Assume that your readers will not have access to this assignment, so your writing should include a brief introduction and enough explanation to stand on its own.
+10. Briefly describe (a) how you determined which algorithm corresponded to which ciphertext; (b) the technique that you used to crack the Caesar Shift Cipher; and (c) crack the Rail Fence Cipher. Each portion of the answer (A-C) should be a well-formed paragraph. Assume that your readers will not have access to this assignment, so your writing should include a brief introduction and enough explanation to stand on its own.
