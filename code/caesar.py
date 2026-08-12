@@ -98,7 +98,7 @@ def shift_alphabet(key=3):
     """ Returns the plaintext and ciphertext alpahabets side by side in a list
     """
     return [english_alphabet,
-            english_alphabet[(i+3)%26] for i in range(len(english_alphabet))]
+            "".join(english_alphabet[(i+3)%26] for i in range(len(english_alphabet)))]
 
 
 def brute_force(ciphertext):
