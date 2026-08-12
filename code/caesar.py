@@ -81,7 +81,7 @@ def encrypt(plaintext, key):
     ciphertext_as_ordinals = _caesar_shift_ordinals(plaintext_as_ordinals, key)
     ciphertext_as_list = ordinals_to_words(ciphertext_as_ordinals)
     ciphertext = "".join(ciphertext_as_list)
-    return ciphertext
+    return ciphertext.upper()
 
 
 def decrypt(ciphertext, key):
@@ -91,7 +91,7 @@ def decrypt(ciphertext, key):
     plaintext_as_ordinals = _caesar_shift_ordinals(ciphertext_as_ordinals, -key)
     plaintext_as_list = ordinals_to_words(plaintext_as_ordinals)
     plaintext = "".join(plaintext_as_list)
-    return plaintext
+    return plaintext.lower()
 
 
 def brute_force(ciphertext):
