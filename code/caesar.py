@@ -74,7 +74,7 @@ def _caesar_shift_ordinals(original_ordinals, key):
     return shifted_ordinals
 
 
-def encrypt(plaintext, key):
+def encrypt(plaintext, key=3):
     """ Encrypts using the Caesar Shift Cipher with the given key
     """
     plaintext_as_ordinals = words_to_ordinals(plaintext)
@@ -84,7 +84,7 @@ def encrypt(plaintext, key):
     return ciphertext.upper()
 
 
-def decrypt(ciphertext, key):
+def decrypt(ciphertext, key=3):
     """ Decrypts using the Caesar Shift Cipher with the given key
     """
     ciphertext_as_ordinals = words_to_ordinals(ciphertext)
@@ -92,6 +92,13 @@ def decrypt(ciphertext, key):
     plaintext_as_list = ordinals_to_words(plaintext_as_ordinals)
     plaintext = "".join(plaintext_as_list)
     return plaintext.lower()
+
+
+def shift_alphabet(key=3):
+    """ Returns the plaintext and ciphertext alpahabets side by side in a list
+    """
+    return [english_alphabet,
+            english_alphabet[(i+3)%26] for i in range(len(english_alphabet))]
 
 
 def brute_force(ciphertext):
