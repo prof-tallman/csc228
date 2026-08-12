@@ -97,8 +97,9 @@ def decrypt(ciphertext, key=3):
 def shift_alphabet(key=3):
     """ Returns the plaintext and ciphertext alpahabets side by side in a list
     """
+    ken_len = len(english_alphabet)
     plaintext = english_alphabet
-    ciphertext = "".join(english_alphabet[(i+3)%26] for i in range(len(english_alphabet)))
+    ciphertext = "".join(english_alphabet[(i+3)%26] for i in range(ken_len))
     return [plaintext, ciphertext]
 
 
