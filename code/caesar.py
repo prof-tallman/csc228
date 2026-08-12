@@ -100,7 +100,7 @@ def shift_alphabet(key=3):
     ken_len = len(english_alphabet)
     plaintext = english_alphabet
     ciphertext = "".join(english_alphabet[(i+key)%26] for i in range(ken_len))
-    return [plaintext, ciphertext.upper()]
+    return [ plaintext, ciphertext.upper() ]
 
 
 def brute_force(ciphertext):
