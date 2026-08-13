@@ -44,16 +44,26 @@ class m3:
                    left_ring,  middle_ring,  right_ring,
                    plugboard)
 
-    def reset(self, reflector="B",
-                    left_rotor="III", middle_rotor="II", right_rotor="I",
-                    left_start="A",   middle_start="A",  right_start="A",
-                    left_ring="A",    middle_ring="A",   right_ring="A",
-                    plugboard=[]):
+    def reset(self, reflector:str = "B",
+                    left_rotor:str = "III", middle_rotor:str = "II", right_rotor:str = "I",
+                    left_start:str = "A",   middle_start:str = "A",  right_start:str = "A",
+                    left_ring:str = "A",    middle_ring:str = "A",   right_ring:str = "A",
+                    plugboard:list = []):
         """ Initializes the M3 Enigma machine by choosing which reflector and
             rotors to use and their initial settings (the letter showing in the
             top of the Enigma box). It also sets plugboard. If rings were added
             they would be set here.
-        """                    
+        """
+
+        if (not left_start.isalpha() or not middle_start.isalpha() or not right_start.isalpha()
+            or not left_ring.isalpha() or not middle_ring.isalpha() or not right_ring.isalpha()):
+            raise ValueError("Rotor settings must be letters")
+        for plug in plugboard:
+            if not isinstance(plug[0], str) or not isinstance(plug[-1], str):
+                raise TypeError("Plugboard settings must contain letters")
+            if not plug[0].isalpha() or not plug[-1].isalpha():
+                raise ValueError("Plugboard settings must contain letters a-z or A-Z")
+
         self._reflector = _mechanical.reflector[reflector.upper()]
         self._L_rotor = _mechanical.rotor[left_rotor.upper()]
         self._M_rotor = _mechanical.rotor[middle_rotor.upper()]
@@ -91,7 +101,7 @@ class m3:
         leave_wire = (enter_wire + reflector[enter_wire]) % 26
         return leave_wire
 
-    def keypress(self, letter, debug=False):
+    def keypress(self, letter, debug=False) -> str:
         """ Encrypts a single key pressed on the keyboard. Returns the _letter_to_ordinal
             that is lit on the lampboard.
         """
@@ -135,20 +145,16 @@ class m3:
         return _ordinal_to_letter(ch9)
 
 
-def _letter_to_ordinal(letter):
-    if letter.isalpha():
-        if letter.islower():
-            return ord(letter) - ord('a')
-        else:
-            return ord(letter) - ord('A')
+def _letter_to_ordinal(letter: str) -> int:
+    if not letter.isalpha():
+        raise ValueError("Parameter `letter` must be a letter a-z or A-Z")
+    if letter.islower():
+        return ord(letter) - ord('a')
     else:
-        return letter
+        return ord(letter) - ord('A')
 
-def _ordinal_to_letter(ordinal):
-    if type(ordinal) == int:
-        return chr(ordinal+ord('A'))
-    else:
-        return ordinal
+def _ordinal_to_letter(ordinal: int) -> str:
+    return chr(ordinal + ord('A'))
 
 
 class _mechanical:

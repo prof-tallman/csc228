@@ -6,7 +6,7 @@
   @license: MIT Licence
   @contact: joshua.tallman@cui.edu
      @file: otp.py
-     @time: 2030-06-05 12:03
+     @time: 2020-06-05 12:03
 """
 
 # For encrypting and decrypting text with a One Time Pad.
