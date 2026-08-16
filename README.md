@@ -11,6 +11,22 @@ During the course, we will enjoy special guest lectures and Q&A time with a prac
 - [Course Outline](course_outline.md)
 - [Reading Guides](reading_guides.md)
 
+## Anxiety and Worry ##
+
+I created the course with the understanding that many college students probably do not have fears related to cybersecurity. However, they may be unaware how often law, policy, and business practices influence our use of everyday technology due to the fear of being sued and, probably less so, the actual negative impacts of technology.
+
+I created this course with the understanding that many college students probably do not experience significant fear related to cybersecurity. Yet fear and concern often shape the laws, policies, security measures, and business practices that influence our everyday use of technology. Decisions about technology are frequently responses to perceived risks, potential harms, liability, and uncertainty.
+
+So while undergraduate students may not recognize knee-knocking fear in regards to most technology, they likely experience worry and anxiety in other areas of life: grades, finances, public speaking, finding a job, family responsibilities, relationships, and an uncertain future. My hope is that students will learn to evaluate risks, countermeasures, costs, and tradeoffs wisely in the context of technology, and then recognize that many of the same habits of thought can be applied to the worries and fears of everyday life.
+
+The course is not so much about making ourselves more secure; instead, it is how we should live when complete security is impossible. My hope is that students will learn to respond to uncertainty with wisdom, courage, responsibility, and trust.
+
+- Matthew 6:31
+- Matthew 14:27
+- Joshua 1:9
+- 2 Timothy 1:7
+- Romans 8:38-39
+
 ## Attribution and Licensing ##
 
 This repository contains a collection of Prof. Tallman's lecture notes, student handouts, and homework material for the course. Most of the material was created by Prof. Tallman with acknowledgements of sources and inspiration embedded in the text where appropriate.
