@@ -59,6 +59,6 @@ Be prepared to:
 
 ## Preparing for the Puzzle Problems ##
 
-Review the hand-encryption and decryption methods practiced in class and on homework. You should understand the procedure well enough to apply it to a short message without software.
+Review the encryption and decryption methods practiced in class and on homework. You should understand the procedures well enough to apply them to a short message without the aid of computer software.
 
-Some homework cryptanalysis exercises required extensive counting or repeated examination of ciphertext. Problems will be scaled appropriately for a paper-and-pencil setting and the alloted time frame. You should still understand how patterns, repetition, frequency, and context can help a cryptanalyst.
+Some homework cryptanalysis exercises required extensive counting or repeated examination of ciphertext. The exam problems will be scaled appropriately for a paper-and-pencil setting and the alloted time frame. You should still understand how patterns, repetition, frequency, and context can help a cryptanalyst.
