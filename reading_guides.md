@@ -6,6 +6,7 @@ Prof. Tallman has created a series of guides to set the context for each assigne
 | --- | --- |
 | Sherlock Holmes: *The Redheaded League* | [Reading Guide](https://github.com/prof-tallman/csc228/blob/main/sherlock_holmes/guide_sherlock_holmes.md) |
 | Sherlock Holmes: *Silver Blaze* | [Reading Guide](https://github.com/prof-tallman/csc228/blob/main/sherlock_holmes/guide_sherlock_holmes.md) |
+| Sherlock Holmes: *The Speckled Band* | [Reading Guide](https://github.com/prof-tallman/csc228/blob/main/sherlock_holmes/guide_sherlock_holmes.md) |
 | *The Code Book*: Chapters 1, 2, 3, 4, and 6 | [Reading Guide](https://github.com/prof-tallman/csc228/blob/main/code_book/guide_code_book.md) |
 | *Beyond Fear*: Chapters 1, 2, and 3 | [Reading Guide](https://github.com/prof-tallman/csc228/blob/main/beyond_fear/guide_beyond_fear_introduction_chapters.md) |
 | *Beyond Fear*: Chapters 7 and 13 | [Reading Guide](https://github.com/prof-tallman/csc228/blob/main/beyond_fear/guide_beyond_fear_introduction_chapters.md) |
