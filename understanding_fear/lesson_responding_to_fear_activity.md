@@ -89,3 +89,7 @@ As the groups present, look for recurring themes across otherwise different scen
 Conclude by returning to the larger purpose of the course. Security decisions are rarely about eliminating all danger. Everyday fears often involve the same problem: uncertainty remains, and attempts to gain complete security may carry significant costs of their own. If a parting question is needed, consider something like this:
 
 > When we cannot eliminate danger or uncertainty, how should we decide what a wise response to fear looks like?
+
+## Acknowledgements ##
+
+The idea for this assignment came from Generative AI. Just as the semester began, my course schedule had to change and I was left with an extra class period. My idea was for the students to present their "Heroes of the Faith" trading cards to the class, but I prompted AI for ideas based on my current course schedule and it came up with this idea.
