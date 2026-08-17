@@ -12,6 +12,7 @@ Prepare several short fictional scenarios involving fears that are recognizable 
 - A senior who is worried about finding a job after graduation
 - A student who dreads giving a presentation
 - Someone who is worried about an unexpected financial expense
+- Someone who is worried about losing a job or losing a scholarship
 - A student who is afraid of making the wrong career decision
 - Someone who is worried about a family member traveling
 - A student who is anxious about making a significant mistake
