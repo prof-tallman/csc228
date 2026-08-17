@@ -38,4 +38,4 @@ Copyright (c) 2026 Joshua Tallman
 https://github.com/prof-tallman/csc228
 ```
 
-
+I have used ChatGPT to help proofread most of these materials. Unless otherwise noted, GenAI helped with grammar and spelling but the underlying ideas and design of the assignments was my own. After developing my own style and format for the course materials, I provided half a dozen finished assignments to the LLM and then started prompting it to take my raw ideas and write them in the same style (which I then went back and edited). For those who are particularly curious, here is an example of [my original AI prompt](internet/homework_internet_theater_ai_prompt.md) and [my final assignment](internet/homework_internet_theater).
