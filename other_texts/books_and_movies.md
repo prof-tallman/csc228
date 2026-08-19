@@ -34,7 +34,6 @@ A collection of possible texts to use for the course. This is a general educatio
 * CitizenFour a documentary about Edward Snowdon (2014)
 * The Fifth Estate a documentary about Julian Assange (2013)
 * Who Am I starring Tom Schilling (2014)
-* One Point O starring Jeremy SIsto and Deborah Unger (2004)
 * 23 starring August Diehl is based on true events (1998)
 * Inception starring Leonardo di Caprio (2010)
 * The Girl with the Dragon Tattoo (The Millenium series) starring Noomi Rpace (2009-2011,2018)
