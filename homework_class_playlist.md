@@ -1,4 +1,4 @@
-# The Playlist #
+# Class Playlist #
 
 Every course needs a soundtrack.
 
