@@ -31,7 +31,7 @@ How does Betsie's example challenge Corrie to see suffering, ministry, and forgi
 
 **When fear and suffering become overwhelming, how do Corrie and Betsie learn to receive God's provision, serve others, and hope for healing beyond the camp?**
 
-## Focus Points for Chapter 15 and the Epilog ##
+## Focus Points for Chapter 15-16 ##
 
 ### 15. Forgiveness Over Fear ###
 
@@ -45,9 +45,9 @@ In Chapter 15, Corrie begins the painful journey back into the world outside Rav
 
 What does Chapter 15 show about forgiveness as a response to fear, suffering, and evil?
 
-### Epilog. Healing Wounds After the War ###
+### 16. Since Then (the epilogue) ###
 
-The epilog shows that Corrie's story does not end when she leaves the camp. Her suffering becomes part of her witness to the world, and her ministry reaches many different kinds of wounded people. As you read, notice how forgiveness becomes both necessary and difficult after the war. Look especially for:
+Since Then shows that Corrie's story does not end when she leaves the camp. Her suffering becomes part of her witness to the world, and her ministry reaches many different kinds of wounded people. As you read, notice how forgiveness becomes both necessary and difficult after the war. Look especially for:
 
 - What Corrie later learns about her release from Ravensbrück
 - How Corrie's message reaches people in many places
@@ -60,4 +60,4 @@ What does the epilog show about the long work of healing, forgiveness, and hope 
 
 ### Overall Guiding Question ###
 
-**How do Chapters 13–15 and the epilog show Corrie learning, often through Betsie's example and God's provision, to choose forgiveness over fear, bitterness, and revenge?**
+**How do Chapters 13–16 show Corrie learning, often through Betsie's example and God's provision, to choose forgiveness over fear, bitterness, and revenge?**
