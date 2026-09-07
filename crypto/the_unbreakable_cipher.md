@@ -24,7 +24,7 @@ Also, notice that the letter `A` in the key results in a Caesar shift of `0`. Th
 2. Decrypt the following ciphertext using the keyword "ROMANS".
 
    ```
-   SIF GBV USYOAKKFMTRK YWE OJF CCHE SGI IE IA LYWE: JZZZQ WR OVFQ SGACZ EIAFVFE, PZIWET QAVR ROE MJ.
+   SIF GBV USYOAKKFMTRK YWE OJF CCHE SGI IE IA LYWE: WUACS IE JWIS ETVDC GUNAWIG, OHEAJH PIRV WCD UF.
    ```
 
 ## Cryptanalysis ##
