@@ -48,7 +48,7 @@ def encrypt(text, keyword, preserve_spaces=True):
         space_pos = _get_space_positions(text)
         plaintext = text.replace(' ', '')
     else:
-        plaintext = text;
+        plaintext = text
 
     # Repeat the keyword over and over again so that we have a key that is the
     # same length as the text itself.
@@ -56,7 +56,7 @@ def encrypt(text, keyword, preserve_spaces=True):
 
     # Convert the key into a series of shift amounts; e.g.,
     # [k, e, y, k, e, y, k...] ==> [11, 5, 25, 11, 5, 25, 11, ...]
-    shifts = [_get_shift_factor(k) for k in key]
+    shifts = [-_get_shift_factor(k) for k in key]
 
     # We encrypt the plaintext by using the shift amounts as a series of keys
     # to the the basic Caesar Shift Cipher.
@@ -86,7 +86,7 @@ def decrypt(text, keyword):
 
     # Convert the key into a series of shift amounts; e.g.,
     # [k, e, y, k, e, y, k...] ==> [11, 5, 25, 11, 5, 25, 11, ...]
-    shifts = [_get_shift_factor(k) for k in key]
+    shifts = [-_get_shift_factor(k) for k in key]
 
     # We decrypt the ciphertext using the shift amounts as a series of keys
     # to the the basic Caesar Shift Cipher.
@@ -97,6 +97,30 @@ def decrypt(text, keyword):
     plaintext = _insert_spaces(plaintext, space_pos)
 
     return plaintext
+
+
+def show_encrypt(plaintext, keyword):
+    print(f"\n{_caesar.english_alphabet.lower()}")
+    for letter in keyword.upper():
+        index = _caesar.english_alphabet.upper().index(letter)
+        alphabet = _caesar.encrypt(_caesar.english_alphabet.upper(), -index)
+        print(alphabet)
+
+    ciphertext = encrypt(plaintext, keyword, True)
+    print(f"\n{plaintext}\n")
+    print(f"{ciphertext}\n")
+
+
+def show_decrypt(ciphertext, keyword):
+    print(f"\n{_caesar.english_alphabet.lower()}")
+    for letter in keyword.upper():
+        index = _caesar.english_alphabet.upper().index(letter)
+        alphabet = _caesar.encrypt(_caesar.english_alphabet.upper(), -index)
+        print(alphabet)
+
+    plaintext = decrypt(ciphertext, keyword)
+    print(f"\n{ciphertext}\n")
+    print(f"{plaintext}\n")
 
 
 def sequence_lists(text, count):
