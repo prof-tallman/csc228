@@ -41,53 +41,42 @@ def _get_shift_factor(ch):
     return ord(ch.lower()) - ord('a')
 
 
-def encrypt(text, keyword, preserve_spaces=True):
+
+def encrypt(plaintext, keyword):
     """ Encrypts a text with the Vigenere Cipher using the given keyword. By
         defualt, spaces in the plaintext are preserved. """
-
-    # Save off the position of all the spaces, as we may reinsert them into them
-    # them ciphertext. Although this is less secure, it does help us to
-    # visualize the resulting ciphertext.
-    if preserve_spaces is True:
-        space_pos = _get_space_positions(text)
-        for pos, value in space_pos.items():
-            plaintext = text.replace(value, '')
-    else:
-        plaintext = text
-
+    
     # Repeat the keyword over and over again so that we have a key that is the
     # same length as the text itself.
+    # "key" ==> [k, e, y, k, e, y, k...]
     key = [keyword[i%len(keyword)] for i in range(len(plaintext))]
 
     # Convert the key into a series of shift amounts; e.g.,
-    # [k, e, y, k, e, y, k...] ==> [11, 5, 25, 11, 5, 25, 11, ...]
+    # [k, e, y, k, e, y, k...] ==> [-11, -5, -25, -11, -5, -25, -11, ...]
     shifts = [-_get_shift_factor(k) for k in key]
 
     # We encrypt the plaintext by using the shift amounts as a series of keys
     # to the the basic Caesar Shift Cipher.
-    ciphertext = [_caesar.encrypt(ch, sh) for ch, sh in zip(plaintext, shifts)]
-    ciphertext = ''.join(ciphertext).lower()
-
-    # Put in the spaces that make the ciphertext easier to read
-    if preserve_spaces is True:
-        ciphertext = _insert_spaces(ciphertext, space_pos)
+    shift_index = 0
+    ciphertext = []
+    for ch in plaintext:
+        if ch.isalpha():
+            ciphertext += _caesar.encrypt(ch, shifts[shift_index])
+            shift_index += 1
+        else:
+            ciphertext += ch
+    ciphertext = ''.join(ciphertext).upper()
 
     return ciphertext
 
 
-def decrypt(text, keyword):
+def decrypt(ciphertext, keyword):
     """ Decrypts a text with the Vigenere Cipher using the given keyword.
     """
 
-    # We need to remove all of the spaces from the secret text in order for
-    # decryption to work, but before doing that... save the location of the
-    # spaces because we might want to reinsert them again later.
-    space_pos = _get_space_positions(text)
-    for pos, value in space_pos.items():
-        ciphertext = ciphertext.replace(value, '')
-
     # Repeat the keyword over and over again so that we have a key that is the
     # same length as the text itself.
+    # "key" ==> [k, e, y, k, e, y, k...]    
     key = [keyword[i%len(keyword)] for i in range(len(ciphertext))]
 
     # Convert the key into a series of shift amounts; e.g.,
@@ -96,11 +85,15 @@ def decrypt(text, keyword):
 
     # We decrypt the ciphertext using the shift amounts as a series of keys
     # to the the basic Caesar Shift Cipher.
-    plaintext = [_caesar.decrypt(ch, sh) for ch, sh in zip(ciphertext, shifts)]
+    shift_index = 0
+    plaintext = []
+    for ch in ciphertext:
+        if ch.isalpha():
+            plaintext += _caesar.decrypt(ch, shifts[shift_index])
+            shift_index += 1
+        else:
+            plaintext += ch    
     plaintext = ''.join(plaintext).lower()
-
-    # Put any spaces back in for easy reading
-    plaintext = _insert_spaces(plaintext, space_pos)
 
     return plaintext
 
@@ -112,9 +105,9 @@ def show_encrypt(plaintext, keyword):
         alphabet = _caesar.encrypt(_caesar.english_alphabet.upper(), -index)
         print(f"{letter}: {alphabet}")
 
-    ciphertext = encrypt(plaintext, keyword, True)
-    print(f"\n{plaintext.lower()}\n")
-    print(f"{ciphertext.upper()}\n")
+    ciphertext = encrypt(plaintext, keyword)
+    print(f"\n{plaintext}\n")
+    print(f"{ciphertext}\n")
 
 
 def show_decrypt(ciphertext, keyword):
@@ -125,8 +118,8 @@ def show_decrypt(ciphertext, keyword):
         print(f"{letter}: {alphabet}")
 
     plaintext = decrypt(ciphertext, keyword)
-    print(f"\n{ciphertext.upper()}\n")
-    print(f"{plaintext.lower()}\n")
+    print(f"\n{ciphertext}\n")
+    print(f"{plaintext}\n")
 
 
 def sequence_lists(text, count):
