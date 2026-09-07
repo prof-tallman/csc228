@@ -100,11 +100,11 @@ def decrypt(text, keyword):
 
 
 def show_encrypt(plaintext, keyword):
-    print(f"\n{_caesar.english_alphabet.lower()}")
+    print(f"\n   {_caesar.english_alphabet.lower()}")
     for letter in keyword.upper():
         index = _caesar.english_alphabet.upper().index(letter)
         alphabet = _caesar.encrypt(_caesar.english_alphabet.upper(), -index)
-        print(alphabet)
+        print(f"{letter}: {alphabet}")
 
     ciphertext = encrypt(plaintext, keyword, True)
     print(f"\n{plaintext}\n")
@@ -112,11 +112,11 @@ def show_encrypt(plaintext, keyword):
 
 
 def show_decrypt(ciphertext, keyword):
-    print(f"\n{_caesar.english_alphabet.lower()}")
+    print(f"\n   {_caesar.english_alphabet.lower()}")
     for letter in keyword.upper():
         index = _caesar.english_alphabet.upper().index(letter)
         alphabet = _caesar.encrypt(_caesar.english_alphabet.upper(), -index)
-        print(alphabet)
+        print(f"{letter}: {alphabet}")
 
     plaintext = decrypt(ciphertext, keyword)
     print(f"\n{ciphertext}\n")
