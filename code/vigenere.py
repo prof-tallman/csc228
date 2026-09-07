@@ -107,8 +107,8 @@ def show_encrypt(plaintext, keyword):
         print(f"{letter}: {alphabet}")
 
     ciphertext = encrypt(plaintext, keyword, True)
-    print(f"\n{plaintext}\n")
-    print(f"{ciphertext}\n")
+    print(f"\n{plaintext.lower()}\n")
+    print(f"{ciphertext.upper()}\n")
 
 
 def show_decrypt(ciphertext, keyword):
@@ -119,8 +119,8 @@ def show_decrypt(ciphertext, keyword):
         print(f"{letter}: {alphabet}")
 
     plaintext = decrypt(ciphertext, keyword)
-    print(f"\n{ciphertext}\n")
-    print(f"{plaintext}\n")
+    print(f"\n{ciphertext.upper()}\n")
+    print(f"{plaintext.lower()}\n")
 
 
 def sequence_lists(text, count):
