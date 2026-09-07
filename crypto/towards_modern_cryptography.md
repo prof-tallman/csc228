@@ -64,7 +64,7 @@ certutil -hashfile message.txt SHA256
 shasum -a 256 message.txt
 ```
 
-To verify that you are using said hash program correctly, try computing the hash of the [`proftallman.txt` file as provided by Prof. Tallman](proftallman.txt). Depending on whether you hashed the encrypted or decrypted version of the file, the SHA256 hash should be either:
+To verify that you are using said hash program correctly, try computing the hash of the [`proftallman.txt` file](proftallman.txt) as previously provided by Prof. Tallman. Depending on whether you hashed the encrypted or decrypted version of the file, the SHA256 hash should be either:
 
 ```
 3ec0a50a3c4dc3f47bb744e2e276824a83e5782176fd64723ff1173f32fb1bb2
