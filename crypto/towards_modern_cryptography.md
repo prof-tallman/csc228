@@ -33,17 +33,14 @@ The final output file, `plaintext.txt`, should be exactly the same as the origin
 1. Did the encrypted text appear random or structured?
 2. How difficult was this process compared to historical systems such as Enigma or Vigenère? Consider the tools available at each time period.
 3. What happened when you entered the wrong password?
-4. Why do modern cryptographic systems depend so heavily on password quality and password management?
-5. What would be the full command to give the final output file a different name?
-6. Why was it important to download GPG from a trustworthy source?
+4. What would be the full command to give the final output file a different name?
 
 ### AES Decryption with GPG ###
 
-Decrypt the file provided by Prof. Tallman using the password that was distributed to the class.
+Decrypt the [file provided by Prof. Tallman](proftallman.txt) using the password that was distributed to the class.
 
-7. What was the plaintext message?
-8. How does sharing a password securely become a challenge in real-world cryptography?
-9. Why is strong encryption not enough if passwords or keys are handled poorly?
+5. What was the plaintext message? (You may abbreviate or summarize the text).
+6. Why do modern cryptographic systems depend so heavily on password quality and password management?
 
 ## Cryptographic Hashing ##
 
@@ -67,14 +64,26 @@ certutil -hashfile message.txt SHA256
 shasum -a 256 message.txt
 ```
 
-Use the SHA-256 cryptographic hash algorithm to compute the digest of a file. First, create a small text document using a text editor and compute its SHA-256 hash. Then modify exactly one character in the file, recompute the hash, and compare the results. What happens if you add a single character? What if you delete one?
+To verify that you are using said hash program correctly, try computing the hash of the [`proftallman.txt` file as provided by Prof. Tallman](proftallman.txt). Depending on whether you hashed the encrypted or decrypted version of the file, the SHA256 hash should be either:
 
-10. What was the SHA-256 hash of your original file?
-11. What was the SHA-256 hash after you made a minor change?
-12. How similar were the resulting hashes?
-13. What does this suggest about the avalanche effect?
-14. Why is the avalanche effect useful in cybersecurity?
-15. How would somebody use a cryptographic hash to help protect against somebody tampering with a file?
+```
+3ec0a50a3c4dc3f47bb744e2e276824a83e5782176fd64723ff1173f32fb1bb2
+```
+
+or
+
+```
+4b37cff59efbcf9dfcee46481d069307f9df3e4db362fed6f4d8c2e427dff8f3
+```
+
+Now that you have confidence with a hashing program, use the SHA-256 cryptographic hash algorithm to compute the digest of a new file. First, create a small text document using a text editor and compute its SHA-256 hash. Then modify exactly one character in the file, recompute the hash, and compare the results. What happens if you add a single character? What if you delete one?
+
+7. What was the SHA-256 hash of your original file?
+8. What was the SHA-256 hash after you made a minor change?
+9. How similar were the resulting hashes?
+10. What does this suggest about the avalanche effect?
+11. Why is the avalanche effect useful in cybersecurity?
+12. How would somebody use a cryptographic hash to help protect against somebody tampering with a file?
 
 Remember that cryptographic hashes are extremely sensitive to tiny changes, including spaces, punctuation, capitalization, and hidden formatting characters. Even adding an extra blank line at the end of a file will completely change the hash.
 
@@ -84,6 +93,6 @@ Modern encryption algorithms such as AES and SHA-256 are considered extremely se
 
 ## Reflection Question ##
 
-16. Briefly describe a modern technology or security system that appears secure mathematically or technically, but still depends heavily on human responsibility to function safely. What kinds of human behaviors weaken the system, and why do people continue making these mistakes even when they understand the risks?
+13. Briefly describe a modern technology or security system that appears secure mathematically or technically, but still depends heavily on human responsibility to function safely. What kinds of human behaviors weaken the system, and why do people continue making these mistakes even when they understand the risks?
 
-Avoid broad or shallow answers. Focus on specific examples and explain your reasoning carefully. Assume that your readers will not have access to this assignment. Your writing should include enough background and explanation to stand on its own.
+Assume that your readers will not have access to this assignment. Your writing should include enough background and explanation to stand on its own.
