@@ -50,7 +50,8 @@ def encrypt(text, keyword, preserve_spaces=True):
     # visualize the resulting ciphertext.
     if preserve_spaces is True:
         space_pos = _get_space_positions(text)
-        plaintext = text.replace(' ', '')
+        for pos, value in space_pos.items():
+            plaintext = text.replace(value, '')
     else:
         plaintext = text
 
@@ -81,8 +82,9 @@ def decrypt(text, keyword):
     # We need to remove all of the spaces from the secret text in order for
     # decryption to work, but before doing that... save the location of the
     # spaces because we might want to reinsert them again later.
-    space_pos  = _get_space_positions(text)
-    ciphertext = text.replace(' ', '')
+    space_pos = _get_space_positions(text)
+    for pos, value in space_pos.items():
+        ciphertext = ciphertext.replace(value, '')
 
     # Repeat the keyword over and over again so that we have a key that is the
     # same length as the text itself.
