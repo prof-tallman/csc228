@@ -20,14 +20,18 @@ import queue as _queue
 def _get_space_positions(text):
     """ Returns a list containing the index of every space ' ' in a string.
     """
-    return [pos for pos in range(len(text)) if text[pos] == " "]
+    space_positions = {}
+    for pos in range(len(text)):
+        if not text[pos].isalpha():
+            space_positions[pos] = text[pos]
+    return space_positions
 
 
 def _insert_spaces(text, space_positions):
     """ Inserts spaces ' ' into a string at each index given in the list.
     """
-    for pos in space_positions:
-        text = text[:pos] + ' ' + text[pos:]
+    for pos, value in space_positions.items():
+        text = text[:pos] + value + text[pos:]
     return text
 
 
