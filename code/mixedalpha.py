@@ -225,7 +225,7 @@ def _format_text(text:str, width:int = 40) -> list[str]:
             output_list += [ '' ]
     return output_list
 
-def crack_side_by_side(ciphertext:str, key:dict[str, str], width:int) -> None:
+def crack_side_by_side(ciphertext:str, key:dict[str, str], width:int = 40) -> None:
     """
     Prints a (partially) cracked plaintext side-by-side next to the original
     ciphertext. Helps the cryptanalyst map solved words to the key.
