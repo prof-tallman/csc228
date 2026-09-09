@@ -61,7 +61,7 @@ If you see the words `PRIVATE KEY BLOCK`, do not submit or send that file.
 Export your public key in a text-based format that Prof. Tallman can import. Replace the email address in the following command with the email address associated with your GPG key:
 
 ```
-gpg --armor --output name_public_key.asc --export your.email@eagles.cui.edu
+gpg --armor --output name_public_key.txt --export your.email@eagles.cui.edu
 ```
 
 Open the exported file in a text editor and verify that it begins with:
@@ -95,7 +95,7 @@ To send an encrypted message to Prof. Tallman, you must first obtain his public 
 gpg --import tallman_public_key.txt
 ```
 
-You can confirm the import worked correctly using the following command:
+You can confirm the import worked correctly using the following command (replace `his.email@cui.edu` with Prof Tallman's real email address):
 
 ```
 gpg --list-keys his.email@cui.edu
@@ -112,7 +112,7 @@ GPG may warn you that it cannot confirm whether this public key actually belongs
 gpg --encrypt --recipient his.email@cui.edu --armor --output to_tallman.txt my_message.txt
 ```
 
-To verify that the encryption worked correctly, open the output file in a text editor. Submit the encrypted file to Prof. Tallman. He will use his private key to decrypt your message.
+To verify that the encryption worked correctly, open the output file in a text editor and make sure it has the standard GPG look and feel. You will not be able to read this message. Submit the encrypted file to Prof. Tallman. He will use his private key to decrypt your message.
 
 ## Understanding Public Key Cryptography ##
 
