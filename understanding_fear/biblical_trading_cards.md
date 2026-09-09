@@ -37,10 +37,6 @@ For each card:
 
 As you think about these themes and the biblical passages they connect to, remember: Some faithful responses lead to rescue, but others lead to suffering or even death in this life. A "good" biblical response does not always mean the earthly outcome is easy, safe, or successful. Obedience to God may lead to prosperity on this earth--and it often does--but obedience can also lead to temporary suffering with the hope of an eternal reward.
 
-There are a few rules to guide your theme selection. **One of your cards must use the theme Most Relatable Fear.** For this card, choose a biblical situation involving a fear that still feels relevant in the 21st century. For the remaining cards, you are free to choose your own theme as long as it relates to the course.
-
-### Potential Themes ###
-
 - Most relatable fear
 - Trust in God
 - Faithful response to fear
