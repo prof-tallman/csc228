@@ -6,18 +6,17 @@ This exam covers our survey of cryptography, starting with the early hand cipher
 
 You will not know the exact questions in advance. Prepare by making sure that you understand the major ideas well enough to explain them without relying on memorized definitions or prepared paragraphs. This test covers the major ideas since the beginning of the term.
 
-The exam will include four parts.
+The exam will include three parts.
 
-- **Part I: Multiple Choice (15 points)** will cover major concepts from the readings and class.
-- **Part II: Short Answer (25 points)** will ask you to explain important ideas in your own words, generally requiring a few sentences per answer.
-- **Part III: Puzzle Problems (45 points)** will require you to apply several of the historical cipher methods practiced in class.
-- **Part IV: Free Response (15 points)** will ask you to analyze a modern cryptographic situation and explain the security protections it provides or lacks.
+- **Part I: Multiple Choice (20 points)** will cover major concepts from the readings and class.
+- **Part II: Short Answer (30 points)** will ask you to explain important ideas in your own words, generally requiring a few sentences per answer.
+- **Part III: Puzzle Problems (50 points)** will require you to apply several of the historical cipher methods practiced in class.
 
 ### Readings and Material Covered ###
 
-- *The Code Book*, Chapters 1, 2, 3, 4, and 6
+- *The Code Book*, Chapters 1, 2, 3, 4, and 6: do not worry too much about the historical events themselves; the exam is more about the development of cryptographic systems
 - Class lessons and activities on historical cryptography and cryptanalysis
-- Caesar shift, rail fence, mixed-alphabet substitution, one-time pads, Enigma, AES, and public-key cryptography
+- Caesar Shift, Rail Fence, Mixed-Alphabet Substitution, Vigenere Cipher, and binary One-Time Pads
 - GPG activities involving keys, encryption, decryption, and digital signatures
 
 ### Homework Page ###
@@ -30,20 +29,15 @@ Choose a homework assignment that will help you recall important ideas, examples
 
 As you study, focus on the development of cryptography and the problems each new system attempted to solve. Review:
 
-- The basic categories and vocabulary of secret communication
 - The differences between substitution and transposition systems
 - The role of keys and the importance of key secrecy
 - How patterns in language make some ciphers vulnerable to cryptanalysis
-- How cipher designers attempted to resist older methods of attack
-- How machines and computer changed both encryption and cryptanalysis
-- The design, use, and eventual defeat of Enigma
-- The importance of human behavior, procedures, predictable messages, and operational mistakes
+- How to encrypt, decrypt, and crack the various ciphers used in the homework assignments
 - The practical strengths and limitations of one-time pads
 - The key-exchange problem
 - The differences between symmetric and public-key cryptography
 - The purposes of public keys, private keys, encryption, decryption, and digital signatures
 - How modern systems combine different cryptographic methods
-- What cryptography can protect and what security problems may remain
 
 ## Preparing for the Written Questions ##
 
@@ -51,14 +45,10 @@ Be prepared to:
 
 - Define and compare high-level cryptographic concepts in your own words.
 - Explain why a cryptographic method is strong or weak.
-- Describe how a historical system worked at a conversational level.
-- Connect developments in cryptography to examples from *The Code Book*.
-- Explain how human decisions can strengthen or weaken a technical system.
-- Distinguish among confidentiality, integrity, authentication, and trust.
-- Apply cryptographic ideas to a short practical situation.
+- Distinguish among confidentiality, integrity, and authentication.
 
 ## Preparing for the Puzzle Problems ##
 
 Review the encryption and decryption methods practiced in class and on homework. You should understand the procedures well enough to apply them to a short message without the aid of computer software.
 
-Some homework cryptanalysis exercises required extensive counting or repeated examination of ciphertext. The exam problems will be scaled appropriately for a paper-and-pencil setting and the alloted time frame. You should still understand how patterns, repetition, frequency, and context can help a cryptanalyst.
+Some homework cryptanalysis exercises required extensive counting or repeated examination of ciphertext. The exam problems will be scaled appropriately for a paper-and-pencil setting and the allotted time frame. You should still understand how patterns, repetition, frequency, and context can help a cryptanalyst.
