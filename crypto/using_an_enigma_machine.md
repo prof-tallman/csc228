@@ -44,4 +44,4 @@ During World War II, the Enigma machine gave governments powerful new ways to co
 
 3. Describe a modern technology that you believe people have adopted without fully understanding its consequences. What makes it difficult to use this technology wisely?
 
-Avoid broad or shallow answers. Focus on examples and explain how the technology affects human behavior, relationships, institutions, or moral decision making. Consider both the opportunities and the risks created by the technology.
+Focus on a concrete example and explain how the technology affects either human behavior, relationships, institutions, or moral decision making. Consider both the opportunities and the risks created by the technology.
