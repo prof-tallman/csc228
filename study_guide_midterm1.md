@@ -14,7 +14,6 @@ The exam will include three parts.
 
 ### Readings and Material Covered ###
 
-- *The Code Book*, Chapters 1, 2, 3, 4, and 6: do not worry too much about the historical events themselves; the exam is more about the development of cryptographic systems
 - Class lessons and activities on historical cryptography and cryptanalysis
 - Caesar Shift, Rail Fence, Mixed-Alphabet Substitution, Vigenere Cipher, and binary One-Time Pads
 - GPG activities involving keys, encryption, decryption, and digital signatures
