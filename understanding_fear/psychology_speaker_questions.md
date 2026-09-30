@@ -14,7 +14,7 @@ This assignment is meant to help you:
 
 ## Instructions ##
 
-Before the guest speaker visits class, prepare **five thoughtful questions** that you could ask during the presentation or Q&A.
+Before the guest speaker visits class, prepare **thoughtful questions** that you could ask during the presentation or Q&A.
 
 Your questions may focus on topics such as:
 
@@ -26,8 +26,6 @@ Your questions may focus on topics such as:
 - How people can learn to manage or overcome fear
 - How fear relates to security, risk, technology, safety, or decision-making
 - How people can respond wisely when they feel afraid
-
-At least **one** of your questions should make a clear connection to the themes of this course: technology, security, fear, risk, safety, or wise decision-making.
 
 You do **not** need to ask all of your questions out loud. These questions are meant to help you prepare. If there is time during Q&A, you should be ready to ask one of them.
 
