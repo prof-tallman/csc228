@@ -90,22 +90,22 @@ You may use one of these examples or choose another biblical person, group, or s
 
 This is a list of stories that include danger, but where the visible outcome results in rescue or blessing. These examples are important because they show that God is able to protect, deliver, and provide for his people in the face of real danger.
 
-| Person / Situation                               | Possible Passage              | Fear / Struggle                      |
-| ------------------------------------------------ | ----------------------------- | ------------------------------------ |
-| Joseph prepares Egypt for famine                 | Genesis 41                    | Fear About Provision or Security     |
-| Moses fears speaking and leading                 | Exodus 3-4                    | Fear of Failure or Inadequacy        |
-| Joshua and Caleb spy the Promised Land           | Numbers 13–14                 | Fear of Physical Danger or Suffering |
-| Rahab hides the spies                            | Joshua 2; Joshua 6            | Fear of Physical Danger or Suffering |
-| Gideon faces Midian                              | Judges 6–7                    | Fear of Failure or Inadequacy        |
-| Ruth cares for Naomi                             | Ruth 1-4                      | Fear About Provision or Security     |
-| David faces Goliath                              | 1 Samuel 17                   | Fear of Physical Danger or Suffering |
-| Esther approaches the king                       | Esther 1–5                    | Fear of Physical Danger or Suffering |
-| Daniel in the lions' den                         | Daniel 6                      | Fear of Physical Danger or Suffering |
-| Shadrach, Meshach, and Abednego face the furnace | Daniel 3                      | Fear of Physical Danger or Suffering |
-| Mary receives the angel's message                | Luke 1:26–38; Matthew 1:18-25 | Fear of Public Ridicule or Rejection |
-| The disciples are rescued in the storm           | Mark 4:35–41                  | Fear of Physical Danger or Suffering |
-| Peter is rescued from prison                     | Acts 12:1–19                  | Fear of Physical Danger or Suffering |
-| Paul escapes Damascus in a basket                | Acts 9:19b–31                 | Fear of Physical Danger or Suffering |
+| Person / Situation                               | Possible Passage              |
+| ------------------------------------------------ | ----------------------------- |
+| Joseph prepares Egypt for famine                 | Genesis 41                    |
+| Moses fears speaking and leading                 | Exodus 3-4                    |
+| Joshua and Caleb spy the Promised Land           | Numbers 13–14                 |
+| Rahab hides the spies                            | Joshua 2; Joshua 6            |
+| Gideon faces Midian                              | Judges 6–7                    |
+| Ruth cares for Naomi                             | Ruth 1-4                      |
+| David faces Goliath                              | 1 Samuel 17                   |
+| Esther approaches the king                       | Esther 1–5                    |
+| Daniel in the lions' den                         | Daniel 6                      |
+| Shadrach, Meshach, and Abednego face the furnace | Daniel 3                      |
+| Mary receives the angel's message                | Luke 1:26–38; Matthew 1:18-25 |
+| The disciples are rescued in the storm           | Mark 4:35–41                  |
+| Peter is rescued from prison                     | Acts 12:1–19                  |
+| Paul escapes Damascus in a basket                | Acts 9:19b–31                 |
 
 There are many other examples that could be used.
 
@@ -113,19 +113,19 @@ There are many other examples that could be used.
 
 These stories include danger, and the visible outcome in this life includes suffering, loss, or even death. These examples are important because Scripture teaches that suffering is part of the Christian life and trusting God does not always lead to earthly safety or success.
 
-| Person / Situation                                | Possible Passage                | Fear / Struggle                      |
-| ------------------------------------------------- | ------------------------------- | ------------------------------------ |
-| Israel refuses to enter the Promised Land         | Numbers 13–14                   | Fear of Physical Danger or Suffering |
-| Saul disobeys God because he fears the people     | 1 Samuel 15                     | Fear of Public Ridicule or Rejection |
-| Elijah flees from Jezebel                         | 1 Kings 19:1-18                 | Fear of Physical Danger or Suffering |
-| Jeremiah suffers for speaking God's word          | Jeremiah 20:1–18; Jeremiah 38   | Fear of Public Ridicule or Rejection |
-| John the Baptist is imprisoned and killed         | Matthew 11:1–6; Matthew 14:1–12 | Fear of Physical Danger or Suffering |
-| Jesus prays in Gethsemane and goes to the cross   | Matthew 26:36–46; Matthew 27    | Fear of Physical Danger or Suffering |
-| Pilate gives in to the crowd                      | Matthew 27:15–26                | Fear of Public Ridicule or Rejection |
-| Peter denies Jesus                                | Luke 22:31-34 and 54–62         | Fear of Public Ridicule or Rejection |
-| The apostles are beaten for preaching             | Acts 5:17–42                    | Fear of Physical Danger or Suffering |
-| Stephen is killed after bearing witness to Christ | Acts 6:8–7                      | Fear of Physical Danger or Suffering |
-| Paul suffers for his ministry                     | 2 Corinthians 11:23–12:10       | Fear of Physical Danger or Suffering |
+| Person / Situation                                | Possible Passage                |
+| ------------------------------------------------- | ------------------------------- |
+| Israel refuses to enter the Promised Land         | Numbers 13–14                   |
+| Saul disobeys God because he fears the people     | 1 Samuel 15                     |
+| Elijah flees from Jezebel                         | 1 Kings 19:1-18                 |
+| Jeremiah suffers for speaking God's word          | Jeremiah 20:1–18; Jeremiah 38   |
+| John the Baptist is imprisoned and killed         | Matthew 11:1–6; Matthew 14:1–12 |
+| Jesus prays in Gethsemane and goes to the cross   | Matthew 26:36–46; Matthew 27    |
+| Pilate gives in to the crowd                      | Matthew 27:15–26                |
+| Peter denies Jesus                                | Luke 22:31-34 and 54–62         |
+| The apostles are beaten for preaching             | Acts 5:17–42                    |
+| Stephen is killed after bearing witness to Christ | Acts 6:8–7                      |
+| Paul suffers for his ministry                     | 2 Corinthians 11:23–12:10       |
 
 There are additional examples that could be used here.
 
@@ -133,10 +133,10 @@ There are additional examples that could be used here.
 
 In some situations, the outcome is complicated or has aspects that are both positive and negative.
 
-| Person / Situation                     | Possible Passage | Fear / Struggle                   |
-| -------------------------------------- | ---------------- | --------------------------------- |
-| Jonah flees from God's call to Nineveh | Jonah 1-4        | Struggling with Mercy for Enemies |
-| Martha is anxious and troubled         | Luke 10:38–42    | Anxiety About Responsibilities    |
+| Person / Situation                     | Possible Passage |
+| -------------------------------------- | ---------------- |
+| Jonah flees from God's call to Nineveh | Jonah 1-4        |
+| Martha is anxious and troubled         | Luke 10:38–42    |
 
 ## Example Card Back ##
 
