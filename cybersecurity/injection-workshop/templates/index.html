@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eagles Outdoor Supply — Cybersecurity Workshop</title>
+
+  <link
+    rel="stylesheet"
+    href="{{ url_for('static', filename='style.css') }}"
+  >
+</head>
+
+<body data-cheatmode="{{ 'true' if cheatmode else 'false' }}">
+  <div class="shell">
+    <header class="topbar">
+      <div>
+        <div class="eyebrow">EAGLES OUTDOOR SUPPLY</div>
+        <h1>Business Portal</h1>
+        <p>
+          A deliberately vulnerable small-business portal for a supervised
+          cybersecurity workshop.
+        </p>
+      </div>
+
+      <div class="header-actions">
+        <span class="status-pill">Workshop Lab</span>
+        <button id="resetButton" class="secondary">Restore Lab</button>
+      </div>
+    </header>
+
+    <section class="card activity-nav">
+      <div class="nav-group">
+        <div class="eyebrow">SQL INJECTION</div>
+
+        <div class="nav-buttons">
+          <button class="activity active" data-activity="sql-read">
+            1. Read / Reveal
+          </button>
+          <button class="activity" data-activity="sql-delete">
+            2. Delete / Disrupt
+          </button>
+          <button class="activity" data-activity="sql-modify">
+            3. Modify / Takeover
+          </button>
+        </div>
+      </div>
+
+      <div class="nav-group">
+        <div class="eyebrow">COMMAND INJECTION</div>
+
+        <div class="nav-buttons">
+          <button class="activity" data-activity="cmd-discover">
+            1. Discover
+          </button>
+          <button class="activity" data-activity="cmd-read">
+            2. Read
+          </button>
+          <button class="activity" data-activity="cmd-disrupt">
+            3. Disrupt
+          </button>
+          <button class="activity" data-activity="cmd-modify">
+            4. Modify
+          </button>
+        </div>
+      </div>
+    </section>
+
+    <section class="card mode-card">
+      <div>
+        <div class="eyebrow">BACKEND MODE</div>
+        <h2 id="activityTitle">SQL Injection — Read</h2>
+        <p id="activitySubtitle">
+          Use the customer search as intended, then explore what happens when
+          input changes the SQL query.
+        </p>
+      </div>
+
+      <div class="segmented">
+        <button id="vulnerableMode" class="segment active">Vulnerable</button>
+        <button id="secureMode" class="segment">Fixed</button>
+      </div>
+    </section>
+
+    <main>
+      <section id="workspace" class="card workspace"></section>
+
+      <section
+        id="cheatmodePanel"
+        class="card cheatmode-card {{ '' if cheatmode else 'hidden' }}"
+      >
+        <div class="cheatmode-header">
+          <div>
+            <div class="eyebrow">CHEATMODE VIEW</div>
+            <h2>What the server executed</h2>
+          </div>
+
+          <span id="modeBadge" class="badge">Vulnerable</span>
+        </div>
+
+        <div class="debug-grid">
+          <div>
+            <h3>Input received</h3>
+            <pre id="debugInput">—</pre>
+          </div>
+
+          <div>
+            <h3>Statement / command</h3>
+            <pre id="debugStatement">—</pre>
+          </div>
+        </div>
+
+        <p id="debugExplanation" class="debug-note">
+          Run an activity to see what happened on the server.
+        </p>
+      </section>
+
+      <!--
+      <section class="card teaching-card">
+        <div class="eyebrow">WORKSHOP TAKEAWAY</div>
+        <h2>Keep data separate from instructions</h2>
+
+        <div class="takeaway-grid">
+          <div>
+            <strong>SQL injection</strong>
+            <p>User input accidentally becomes part of a database instruction.</p>
+          </div>
+
+          <div>
+            <strong>Command injection</strong>
+            <p>
+              User input accidentally becomes part of an operating-system
+              instruction.
+            </p>
+          </div>
+        </div>
+      </section>
+      -->
+    </main>
+  </div>
+
+  <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
