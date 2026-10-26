@@ -12,34 +12,33 @@ Four computers appear in the packet log:
 
 * Two client computers (`Client 1` and `Client 2`)
 * One DNS server
-* One web server
+* Two web servers
 
 The computers use the following IP addresses:
 
 * `10.0.0.21`
 * `10.0.0.34`
 * `10.0.0.53`
-* `203.0.113.80`
+* `199.34.228.159`
+* `104.26.7.166`
 
-You are not told which IP address belongs to which computer. You will need to determine that from the packets. Both clients are attempting to visit:
-
-`www.sequoiabrigadecamp.org`
+You are not told which IP address belongs to which computer. You will need to determine that from the packets.
 
 ## Packet Log ##
 
 | Packet | Source IP | Destination IP | Protocol | Information |
 | ------ | -------------- | -------------- | -------- | ------------------------------------------------------------------------- |
-| A | `203.0.113.80` | `10.0.0.21` | HTTP | `today. Classes begin at 9:00 AM.</body></html>` |
-| B | `10.0.0.34` | `203.0.113.80` | HTTP | `GET /announcements.html` |
-| C | `10.0.0.53` | `10.0.0.21` | DNS | `www.sequoiabrigadecamp.org = 203.0.113.80` |
-| D | `203.0.113.80` | `10.0.0.34` | HTTP | `<html><body>Today's announcement: The` |
+| A | `199.34.228.159` | `10.0.0.21` | HTTP | `Activities begin at 9:00 AM.</body></html>` |
+| B | `10.0.0.34` | `104.26.7.166` | HTTP | `GET /announcements.html` |
+| C | `10.0.0.53` | `10.0.0.21` | DNS | `www.sequoiabrigadecamp.org = 199.34.228.159` |
+| D | `104.26.7.166` | `10.0.0.34` | HTTP | `<html><body>Today's announcement: The ` |
 | E | `10.0.0.21` | `10.0.0.53` | DNS | `What is the IP address of www.sequoiabrigadecamp.org?` |
-| F | `203.0.113.80` | `10.0.0.21` | HTTP | `<html><body>Welcome to Sequoia Brigade Camp. The weather is sunny` |
-| G | `10.0.0.34` | `10.0.0.53` | DNS | `What is the IP address of www.sequoiabrigadecamp.org?` |
-| H | `203.0.113.80` | `10.0.0.34` | HTTP | `library will close at 8:00 PM.</body></html>` |
-| I | `10.0.0.21` | `203.0.113.80` | HTTP | `GET /index.html` |
-| J | `10.0.0.53` | `10.0.0.34` | DNS | `www.sequoiabrigadecamp.org = 203.0.113.80` |
-| K | `203.0.113.80` | `10.0.0.21` | HTTP | `today. Campfire begins at 8:00 pm.` |
+| F | `199.34.228.159` | `10.0.0.21` | HTTP | `<html><body>Welcome to Sequoia Brigade Camp. The ` |
+| G | `10.0.0.34` | `10.0.0.53` | DNS | `What is the IP address of www.cui.edu?` |
+| H | `104.26.7.166` | `10.0.0.34` | HTTP | `library will close at 8:00 PM.</body></html>` |
+| I | `10.0.0.21` | `199.34.228.159` | HTTP | `GET /index.html` |
+| J | `10.0.0.53` | `10.0.0.34` | DNS | `www.cui.edu = 104.26.7.166` |
+| K | `199.34.228.159` | `10.0.0.21` | HTTP | `weather is sunny today. Campfire begins at 8:00 pm. ` |
 
 ## Part 1: Identify the Computers ##
 
@@ -50,7 +49,8 @@ Determine the role of each IP address. For each computer, briefly explain what e
 | `10.0.0.21` | `________________` | `_______________________________________` |
 | `10.0.0.34` | `________________` | `_______________________________________` |
 | `10.0.0.53` | `________________` | `_______________________________________` |
-| `203.0.113.80` | `________________` | `_______________________________________` |
+| `104.26.7.166` | `________________` | `_______________________________________` |
+| `199.34.228.159` | `________________` | `_______________________________________` |
 
 ## Part 2: Reconstruct the Conversations ##
 
