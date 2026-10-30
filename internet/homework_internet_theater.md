@@ -8,11 +8,11 @@ For example, a play about TCP/IP encapsulation might have characters representin
 
 ## Technical Content ##
 
-Your play should accurately represent material that we have studied about how the internet works. Possible topics include: packetization, IP addresses, DNS, the layers of the TCP/IP model, routing and routing tables, the TCP protocol, and other closely related material from class.
+Your play should accurately represent material that we have studied about how the internet works. Possible topics include: packetization, IP addresses, DNS, the layers of the TCP/IP model, routing and routing tables, the TCP protocol, onion routing, and other closely related material from class.
 
 You should **not** include every topic from this list. A good play might briefly connect several of these ideas together. Another good play might take one or two ideas and explore them in much greater detail.
 
-The important requirement is that the technical ideas presented in your play are accurate and understandable.
+The important requirement is that the technical ideas presented in your play are reasonably accurate and understandable (creative analogies always fail at some point).
 
 ## The Script ##
 
@@ -23,6 +23,7 @@ You may personify technical components if that helps tell the story. Characters 
 - A server or router trying to faithfully fulfill its duties
 - The Application, Transport, Internet, or Network Access layers
 - A lost packet desperately trying to find its way home
+- An onion who is upset because it cannot understand its many layers
 
 ## Artwork ##
 
